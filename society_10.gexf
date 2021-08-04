@@ -1,0 +1,1488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-08-04">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="A , jun Ramsay" label="A , jun Ramsay" />
+      <node id="A G Cross" label="A G Cross" />
+      <node id="A Ioannides" label="A Ioannides" />
+      <node id="Alan Cornwall Blackstone" label="Alan Cornwall Blackstone" />
+      <node id="Alexander McArthur" label="Alexander McArthur" />
+      <node id="Alexander Michie" label="Alexander Michie" />
+      <node id="Alexander Nasmyth" label="Alexander Nasmyth" />
+      <node id="Alexander Norman Tate" label="Alexander Norman Tate" />
+      <node id="Alexander Patrick Stewart" label="Alexander Patrick Stewart" />
+      <node id="Alfred Barton" label="Alfred Barton" />
+      <node id="Alfred Gutteres Henriques" label="Alfred Gutteres Henriques" />
+      <node id="Alfred Hewlett" label="Alfred Hewlett" />
+      <node id="Alfred Higgins" label="Alfred Higgins" />
+      <node id="Alfred Russel Wallace" label="Alfred Russel Wallace" />
+      <node id="Alfred Sanders" label="Alfred Sanders" />
+      <node id="Alfred Tubb Windus" label="Alfred Tubb Windus" />
+      <node id="Alfred Wiltshire" label="Alfred Wiltshire" />
+      <node id="Amos Beardsley" label="Amos Beardsley" />
+      <node id="Andrew Gilmour" label="Andrew Gilmour" />
+      <node id="Andrew Scott Waugh" label="Andrew Scott Waugh" />
+      <node id="Andrew Smith" label="Andrew Smith" />
+      <node id="Anthropological Society of Paris" label="Anthropological Society of Paris" />
+      <node id="Antonio Brady" label="Antonio Brady" />
+      <node id="Archibald Campbell" label="Archibald Campbell" />
+      <node id="Arthur Charles Wriothesley Lennox" label="Arthur Charles Wriothesley Lennox" />
+      <node id="Arthur Chilver Tupper" label="Arthur Chilver Tupper" />
+      <node id="Arthur Giles Puller" label="Arthur Giles Puller" />
+      <node id="Arthur Trevelyan" label="Arthur Trevelyan" />
+      <node id="August Friedrich Marschall von Burgholzhausen" label="August Friedrich Marschall von Burgholzhausen" />
+      <node id="Augustus Goldsmid" label="Augustus Goldsmid" />
+      <node id="Augustus Henry Lane Fox later Pitt Rivers" label="Augustus Henry Lane Fox later Pitt Rivers" />
+      <node id="Augustus Jessopp" label="Augustus Jessopp" />
+      <node id="Augustus Wollaston Franks" label="Augustus Wollaston Franks" />
+      <node id="B H Paul" label="B H Paul" />
+      <node id="Balthazar Walter Foster" label="Balthazar Walter Foster" />
+      <node id="Barr Meadows" label="Barr Meadows" />
+      <node id="Bath Charles Smart" label="Bath Charles Smart" />
+      <node id="Bedford Pim" label="Bedford Pim" />
+      <node id="Benjamin Bond Cabbell" label="Benjamin Bond Cabbell" />
+      <node id="Benjamin Collins Brodie" label="Benjamin Collins Brodie" />
+      <node id="Benjamin Phillips" label="Benjamin Phillips" />
+      <node id="Benson Baker" label="Benson Baker" />
+      <node id="Beriah Botfield" label="Beriah Botfield" />
+      <node id="Bernard Edward Brodhurst" label="Bernard Edward Brodhurst" />
+      <node id="Bernard Quaritch" label="Bernard Quaritch" />
+      <node id="Berthold Seemann" label="Berthold Seemann" />
+      <node id="Brian Houghton Hodgson" label="Brian Houghton Hodgson" />
+      <node id="Buchanan Washbourn" label="Buchanan Washbourn" />
+      <node id="C  Treasure Jones" label="C  Treasure Jones" />
+      <node id="C E Harle" label="C E Harle" />
+      <node id="C T Gardner" label="C T Gardner" />
+      <node id="Camille Dareste" label="Camille Dareste" />
+      <node id="Carl Ernst von Baer" label="Carl Ernst von Baer" />
+      <node id="Champion Wetton" label="Champion Wetton" />
+      <node id="Charles (1) Harrison" label="Charles (1) Harrison" />
+      <node id="Charles Adolphe Morlot" label="Charles Adolphe Morlot" />
+      <node id="Charles Brett" label="Charles Brett" />
+      <node id="Charles Buxton" label="Charles Buxton" />
+      <node id="Charles Cardale Babington" label="Charles Cardale Babington" />
+      <node id="Charles Cornish Brown" label="Charles Cornish Brown" />
+      <node id="Charles Darwin" label="Charles Darwin" />
+      <node id="Charles Duncan Cameron" label="Charles Duncan Cameron" />
+      <node id="Charles Edward Gover" label="Charles Edward Gover" />
+      <node id="Charles Francis Lewis" label="Charles Francis Lewis" />
+      <node id="Charles H L Woodd" label="Charles H L Woodd" />
+      <node id="Charles Harcourt Chambers" label="Charles Harcourt Chambers" />
+      <node id="Charles Harding" label="Charles Harding" />
+      <node id="Charles Henry Gatty" label="Charles Henry Gatty" />
+      <node id="Charles Jellicoe" label="Charles Jellicoe" />
+      <node id="Charles Kingsley" label="Charles Kingsley" />
+      <node id="Charles Lyell" label="Charles Lyell" />
+      <node id="Charles Malcolm" label="Charles Malcolm" />
+      <node id="Charles Nicholson" label="Charles Nicholson" />
+      <node id="Charles Ottley Groom Napier" label="Charles Ottley Groom Napier" />
+      <node id="Charles Pyndar Beauchamp Walker" label="Charles Pyndar Beauchamp Walker" />
+      <node id="Charles Radcliffe Bond" label="Charles Radcliffe Bond" />
+      <node id="Charles Ratcliff" label="Charles Ratcliff" />
+      <node id="Charles Robert des Ruffieres" label="Charles Robert des Ruffieres" />
+      <node id="Charles Rooke" label="Charles Rooke" />
+      <node id="Charles Rowland Goodman" label="Charles Rowland Goodman" />
+      <node id="Charles Thomas Pearce" label="Charles Thomas Pearce" />
+      <node id="Charles Wentworth Dilke" label="Charles Wentworth Dilke" />
+      <node id="Charles William Devis" label="Charles William Devis" />
+      <node id="Charles William Hoyland" label="Charles William Hoyland" />
+      <node id="Chemical Society" label="Chemical Society" />
+      <node id="Clements Robert Markham" label="Clements Robert Markham" />
+      <node id="Connop Thirlwall" label="Connop Thirlwall" />
+      <node id="Cornelius Walford" label="Cornelius Walford" />
+      <node id="Coryndon H Luxmoore" label="Coryndon H Luxmoore" />
+      <node id="Cunningham Borthwick" label="Cunningham Borthwick" />
+      <node id="D G F Macdonald" label="D G F Macdonald" />
+      <node id="D W Nash" label="D W Nash" />
+      <node id="Daniel Brooke Robertson" label="Daniel Brooke Robertson" />
+      <node id="Daniel Mackintosh" label="Daniel Mackintosh" />
+      <node id="David Forbes" label="David Forbes" />
+      <node id="David Mackintosh" label="David Mackintosh" />
+      <node id="David Morris" label="David Morris" />
+      <node id="David Salomons" label="David Salomons" />
+      <node id="Davyd William Nash" label="Davyd William Nash" />
+      <node id="Douglas Galton" label="Douglas Galton" />
+      <node id="Draper Mackinder" label="Draper Mackinder" />
+      <node id="Dunbar Isidore Heath" label="Dunbar Isidore Heath" />
+      <node id="Duncan W Forbes" label="Duncan W Forbes" />
+      <node id="E B Tawney" label="E B Tawney" />
+      <node id="E J Routh" label="E J Routh" />
+      <node id="E V Gardner" label="E V Gardner" />
+      <node id="Edmund Lloyd" label="Edmund Lloyd" />
+      <node id="Edouard J Villin" label="Edouard J Villin" />
+      <node id="Edward (1) Lawrence" label="Edward (1) Lawrence" />
+      <node id="Edward Arnold" label="Edward Arnold" />
+      <node id="Edward Bellamy" label="Edward Bellamy" />
+      <node id="Edward C Anderson" label="Edward C Anderson" />
+      <node id="Edward Charlesworth" label="Edward Charlesworth" />
+      <node id="Edward Jackson Riccard" label="Edward Jackson Riccard" />
+      <node id="Edward Lawford" label="Edward Lawford" />
+      <node id="Edward Lund" label="Edward Lund" />
+      <node id="Edward O'Riley" label="Edward O'Riley" />
+      <node id="Edward Osborne Smith" label="Edward Osborne Smith" />
+      <node id="Edward Peacock" label="Edward Peacock" />
+      <node id="Edward Price Houghton" label="Edward Price Houghton" />
+      <node id="Edward Ryan" label="Edward Ryan" />
+      <node id="Edward Spooner" label="Edward Spooner" />
+      <node id="Edward William Brabrook" label="Edward William Brabrook" />
+      <node id="Edward Wood" label="Edward Wood" />
+      <node id="Edwin Brown" label="Edwin Brown" />
+      <node id="Edwin Chadwick" label="Edwin Chadwick" />
+      <node id="Edwin Henry Baverstock" label="Edwin Henry Baverstock" />
+      <node id="Edwin Ormond Brown" label="Edwin Ormond Brown" />
+      <node id="Edwin Ransom" label="Edwin Ransom" />
+      <node id="Ernest Abraham Hart" label="Ernest Abraham Hart" />
+      <node id="Ernest Renan" label="Ernest Renan" />
+      <node id="Eugene Dally" label="Eugene Dally" />
+      <node id="F Hudson" label="F Hudson" />
+      <node id="F L Cotton" label="F L Cotton" />
+      <node id="F T Littey" label="F T Littey" />
+      <node id="Flaxman Spurrell" label="Flaxman Spurrell" />
+      <node id="Francis Duncan" label="Francis Duncan" />
+      <node id="Francis Egerton" label="Francis Egerton" />
+      <node id="Francis G P Neison" label="Francis G P Neison" />
+      <node id="Francis Galton" label="Francis Galton" />
+      <node id="Francis Griffiths" label="Francis Griffiths" />
+      <node id="Francis Ignatio Rickard" label="Francis Ignatio Rickard" />
+      <node id="Francis Kerridge Munton" label="Francis Kerridge Munton" />
+      <node id="Francis R Spry" label="Francis R Spry" />
+      <node id="Francis Tagart" label="Francis Tagart" />
+      <node id="Francois Jules Pictet" label="Francois Jules Pictet" />
+      <node id="Frank Chance" label="Frank Chance" />
+      <node id="Frederick Braby" label="Frederick Braby" />
+      <node id="Frederick Butler Montgomerie" label="Frederick Butler Montgomerie" />
+      <node id="Frederick Cock" label="Frederick Cock" />
+      <node id="Frederick Edward Pearse" label="Frederick Edward Pearse" />
+      <node id="Frederick George Hilton Price" label="Frederick George Hilton Price" />
+      <node id="Frederick George Lee" label="Frederick George Lee" />
+      <node id="Frederick Hindmarsh" label="Frederick Hindmarsh" />
+      <node id="Frederick King Green" label="Frederick King Green" />
+      <node id="Frederick Mackenzie Skues" label="Frederick Mackenzie Skues" />
+      <node id="Frederick Ouvry" label="Frederick Ouvry" />
+      <node id="Frederick R Izard" label="Frederick R Izard" />
+      <node id="Frederick Theed" label="Frederick Theed" />
+      <node id="Frederick W Aley" label="Frederick W Aley" />
+      <node id="Frederick William Rudler" label="Frederick William Rudler" />
+      <node id="G H Ogston" label="G H Ogston" />
+      <node id="G P Dall" label="G P Dall" />
+      <node id="Geological Society" label="Geological Society" />
+      <node id="George Alexander James" label="George Alexander James" />
+      <node id="George Balfour" label="George Balfour" />
+      <node id="George Bellas Greenough" label="George Bellas Greenough" />
+      <node id="George Busk" label="George Busk" />
+      <node id="George Calvert" label="George Calvert" />
+      <node id="George Critchett" label="George Critchett" />
+      <node id="George Curling Joad" label="George Curling Joad" />
+      <node id="George Cutler" label="George Cutler" />
+      <node id="George Dawson" label="George Dawson" />
+      <node id="George Dibley" label="George Dibley" />
+      <node id="George Duncan Gibb" label="George Duncan Gibb" />
+      <node id="George E Roberts" label="George E Roberts" />
+      <node id="George Fleming" label="George Fleming" />
+      <node id="George Ford Copeland" label="George Ford Copeland" />
+      <node id="George Granville Francis Egerton" label="George Granville Francis Egerton" />
+      <node id="George Hill" label="George Hill" />
+      <node id="George Lade" label="George Lade" />
+      <node id="George Macleay" label="George Macleay" />
+      <node id="George Maw" label="George Maw" />
+      <node id="George Michael Perry" label="George Michael Perry" />
+      <node id="George Rolleston" label="George Rolleston" />
+      <node id="George S  Lennon Hunt" label="George S  Lennon Hunt" />
+      <node id="George Sexton" label="George Sexton" />
+      <node id="George St Clair" label="George St Clair" />
+      <node id="George Suttor" label="George Suttor" />
+      <node id="George Tate" label="George Tate" />
+      <node id="George Walker" label="George Walker" />
+      <node id="George Waterhouse" label="George Waterhouse" />
+      <node id="George William Barrington" label="George William Barrington" />
+      <node id="George William Septimus Piesse" label="George William Septimus Piesse" />
+      <node id="George Windsor Earl" label="George Windsor Earl" />
+      <node id="George Witt" label="George Witt" />
+      <node id="H  Burnard Owen" label="H  Burnard Owen" />
+      <node id="H  Hodgson Rugg" label="H  Hodgson Rugg" />
+      <node id="H  Victor Martin" label="H  Victor Martin" />
+      <node id="H Clerk" label="H Clerk" />
+      <node id="H J B Hancock" label="H J B Hancock" />
+      <node id="H V Simpson" label="H V Simpson" />
+      <node id="Handel Cossham" label="Handel Cossham" />
+      <node id="Henri Milne-Edwards" label="Henri Milne-Edwards" />
+      <node id="Henry (the father) Jackson" label="Henry (the father) Jackson" />
+      <node id="Henry (the son) Jackson" label="Henry (the son) Jackson" />
+      <node id="Henry Ashworth" label="Henry Ashworth" />
+      <node id="Henry Barber" label="Henry Barber" />
+      <node id="Henry Bowden Lyle" label="Henry Bowden Lyle" />
+      <node id="Henry Burden" label="Henry Burden" />
+      <node id="Henry Christy" label="Henry Christy" />
+      <node id="Henry Clare" label="Henry Clare" />
+      <node id="Henry Clark" label="Henry Clark" />
+      <node id="Henry Cole" label="Henry Cole" />
+      <node id="Henry Danby Seymour" label="Henry Danby Seymour" />
+      <node id="Henry Duckworth" label="Henry Duckworth" />
+      <node id="Henry Edward Jessop" label="Henry Edward Jessop" />
+      <node id="Henry George Bohn" label="Henry George Bohn" />
+      <node id="Henry Hallam" label="Henry Hallam" />
+      <node id="Henry Hoyle Howorth" label="Henry Hoyle Howorth" />
+      <node id="Henry Hoyte Winwood" label="Henry Hoyte Winwood" />
+      <node id="Henry Hudson" label="Henry Hudson" />
+      <node id="Henry James Paine" label="Henry James Paine" />
+      <node id="Henry Johnson" label="Henry Johnson" />
+      <node id="Henry King Spark" label="Henry King Spark" />
+      <node id="Henry Leighton" label="Henry Leighton" />
+      <node id="Henry Norsworthy" label="Henry Norsworthy" />
+      <node id="Henry Rawlinson" label="Henry Rawlinson" />
+      <node id="Henry S Boase" label="Henry S Boase" />
+      <node id="Henry Walter Bellew" label="Henry Walter Bellew" />
+      <node id="Henry Whitfeld" label="Henry Whitfeld" />
+      <node id="Henry Willan Jackson" label="Henry Willan Jackson" />
+      <node id="Henry William (1) Jackson" label="Henry William (1) Jackson" />
+      <node id="Hermann Beigel" label="Hermann Beigel" />
+      <node id="Holmes Coote" label="Holmes Coote" />
+      <node id="Hugh J C Beavan" label="Hugh J C Beavan" />
+      <node id="Isaac Byerley" label="Isaac Byerley" />
+      <node id="J  Beete Jukes" label="J  Beete Jukes" />
+      <node id="J  Daniel Moore" label="J  Daniel Moore" />
+      <node id="J  Eglinton Seaman" label="J  Eglinton Seaman" />
+      <node id="J  Hughlings Jackson" label="J  Hughlings Jackson" />
+      <node id="J  Marrion Sims" label="J  Marrion Sims" />
+      <node id="J  Passmore Edwards" label="J  Passmore Edwards" />
+      <node id="J  Pryce Jones" label="J  Pryce Jones" />
+      <node id="J  Ranald Martin" label="J  Ranald Martin" />
+      <node id="J  Spotswood Wilson" label="J  Spotswood Wilson" />
+      <node id="J  T Thresh" label="J  T Thresh" />
+      <node id="J A Symonds" label="J A Symonds" />
+      <node id="J C Murray" label="J C Murray" />
+      <node id="J D V Packman" label="J D V Packman" />
+      <node id="J Muir" label="J Muir" />
+      <node id="J P Baker" label="J P Baker" />
+      <node id="J P Morris" label="J P Morris" />
+      <node id="J R Logan" label="J R Logan" />
+      <node id="J W  (2) Kaye" label="J W  (2) Kaye" />
+      <node id="J W  Conrad Cox" label="J W  Conrad Cox" />
+      <node id="J W Walton" label="J W Walton" />
+      <node id="Jabez Spence Ramskill" label="Jabez Spence Ramskill" />
+      <node id="James Aitken Meigs" label="James Aitken Meigs" />
+      <node id="James Alfred Wanklyn" label="James Alfred Wanklyn" />
+      <node id="James Anderson Rose" label="James Anderson Rose" />
+      <node id="James Bainbridge Baxter" label="James Bainbridge Baxter" />
+      <node id="James Bischoff" label="James Bischoff" />
+      <node id="James Bonsor" label="James Bonsor" />
+      <node id="James Bonwick" label="James Bonwick" />
+      <node id="James Buckman" label="James Buckman" />
+      <node id="James C Proctor" label="James C Proctor" />
+      <node id="James Campbell" label="James Campbell" />
+      <node id="James Clark" label="James Clark" />
+      <node id="James Cotter Morison" label="James Cotter Morison" />
+      <node id="James Cowles Prichard" label="James Cowles Prichard" />
+      <node id="James Coxon Richardson" label="James Coxon Richardson" />
+      <node id="James Henry Skene" label="James Henry Skene" />
+      <node id="James Heywood" label="James Heywood" />
+      <node id="James Holland" label="James Holland" />
+      <node id="James Hunt" label="James Hunt" />
+      <node id="James Kay Shuttleworth" label="James Kay Shuttleworth" />
+      <node id="James Kernahan" label="James Kernahan" />
+      <node id="James L Lobley" label="James L Lobley" />
+      <node id="James McCraith" label="James McCraith" />
+      <node id="James Penn Harris" label="James Penn Harris" />
+      <node id="James Rae" label="James Rae" />
+      <node id="James Roberts Brown" label="James Roberts Brown" />
+      <node id="James Talbot de Malahide" label="James Talbot de Malahide" />
+      <node id="James Walker" label="James Walker" />
+      <node id="James Whishaw" label="James Whishaw" />
+      <node id="James William Fleming" label="James William Fleming" />
+      <node id="James, jun Rock" label="James, jun Rock" />
+      <node id="Japetus Steenstrup" label="Japetus Steenstrup" />
+      <node id="Jean Baptiste Julien D'Omalius d'Halloy" label="Jean Baptiste Julien D'Omalius d'Halloy" />
+      <node id="Jean-Francois Caplin" label="Jean-Francois Caplin" />
+      <node id="Jesse Conway Davies" label="Jesse Conway Davies" />
+      <node id="Johann Franz ('Julius') Haast" label="Johann Franz ('Julius') Haast" />
+      <node id="John  Wheeldon Barnes" label="John  Wheeldon Barnes" />
+      <node id="John (1) Collinson" label="John (1) Collinson" />
+      <node id="John (2) Cleghorn" label="John (2) Cleghorn" />
+      <node id="John (2) Martin" label="John (2) Martin" />
+      <node id="John (2) Scott" label="John (2) Scott" />
+      <node id="John Allen Brown" label="John Allen Brown" />
+      <node id="John Anderson" label="John Anderson" />
+      <node id="John Atcherley" label="John Atcherley" />
+      <node id="John Bell (2)" label="John Bell (2)" />
+      <node id="John Benn Ormathwaite" label="John Benn Ormathwaite" />
+      <node id="John Bennett" label="John Bennett" />
+      <node id="John Beswick Perrin" label="John Beswick Perrin" />
+      <node id="John Bilderbeck" label="John Bilderbeck" />
+      <node id="John Bowring" label="John Bowring" />
+      <node id="John Cavafy" label="John Cavafy" />
+      <node id="John Conolly" label="John Conolly" />
+      <node id="John Crawfurd" label="John Crawfurd" />
+      <node id="John Drummond" label="John Drummond" />
+      <node id="John E Smyth" label="John E Smyth" />
+      <node id="John Edward Lee" label="John Edward Lee" />
+      <node id="John Evans" label="John Evans" />
+      <node id="John Frederick Collingwood" label="John Frederick Collingwood" />
+      <node id="John Frederick McNair" label="John Frederick McNair" />
+      <node id="John Gardner Wilkinson" label="John Gardner Wilkinson" />
+      <node id="John George Clunies Ross" label="John George Clunies Ross" />
+      <node id="John George Davey" label="John George Davey" />
+      <node id="John George Wood" label="John George Wood" />
+      <node id="John Grattan" label="John Grattan" />
+      <node id="John Grayling" label="John Grayling" />
+      <node id="John Grover" label="John Grover" />
+      <node id="John Gunn" label="John Gunn" />
+      <node id="John Henry Challis" label="John Henry Challis" />
+      <node id="John Henry Rivett-Carnac" label="John Henry Rivett-Carnac" />
+      <node id="John James Sturz" label="John James Sturz" />
+      <node id="John Jones" label="John Jones" />
+      <node id="John Joseph Shillinglaw" label="John Joseph Shillinglaw" />
+      <node id="John Jun Dickinson" label="John Jun Dickinson" />
+      <node id="John King Watts" label="John King Watts" />
+      <node id="John Lancaster" label="John Lancaster" />
+      <node id="John Langdon H Down" label="John Langdon H Down" />
+      <node id="John Lee (2)" label="John Lee (2)" />
+      <node id="John Lister" label="John Lister" />
+      <node id="John Lubbock" label="John Lubbock" />
+      <node id="John M  (or H ) Middleton" label="John M  (or H ) Middleton" />
+      <node id="John Magens Mello" label="John Magens Mello" />
+      <node id="John Medd" label="John Medd" />
+      <node id="John Nottingham" label="John Nottingham" />
+      <node id="John Payne Collier" label="John Payne Collier" />
+      <node id="John Peter Gassiot" label="John Peter Gassiot" />
+      <node id="John Plant" label="John Plant" />
+      <node id="John Ryan" label="John Ryan" />
+      <node id="John Scouler" label="John Scouler" />
+      <node id="John Shortt" label="John Shortt" />
+      <node id="John Spencer Noldwritt" label="John Spencer Noldwritt" />
+      <node id="John Stothert Bartrum" label="John Stothert Bartrum" />
+      <node id="John Tennant" label="John Tennant" />
+      <node id="John Thomson" label="John Thomson" />
+      <node id="John Thrupp" label="John Thrupp" />
+      <node id="John Thurnam" label="John Thurnam" />
+      <node id="John Tolhurst" label="John Tolhurst" />
+      <node id="John Ussher" label="John Ussher" />
+      <node id="John Wickham Flower" label="John Wickham Flower" />
+      <node id="John Wilkins Williams" label="John Wilkins Williams" />
+      <node id="John William Willoughby Osborne" label="John William Willoughby Osborne" />
+      <node id="John Zachariah Laurence" label="John Zachariah Laurence" />
+      <node id="John jun Dickinson" label="John jun Dickinson" />
+      <node id="Jonathan Hutchinson" label="Jonathan Hutchinson" />
+      <node id="Jonathan Sparrow Crowley" label="Jonathan Sparrow Crowley" />
+      <node id="Jones Lamprey" label="Jones Lamprey" />
+      <node id="Joseph Bosworth" label="Joseph Bosworth" />
+      <node id="Joseph Henry Barr" label="Joseph Henry Barr" />
+      <node id="Joseph Hooker" label="Joseph Hooker" />
+      <node id="Joseph Ince" label="Joseph Ince" />
+      <node id="Joseph Lister" label="Joseph Lister" />
+      <node id="Joseph Mayer" label="Joseph Mayer" />
+      <node id="Joseph Milligan" label="Joseph Milligan" />
+      <node id="Joseph Prestwich" label="Joseph Prestwich" />
+      <node id="Joseph William Eastwood" label="Joseph William Eastwood" />
+      <node id="Josiah Clark Nott" label="Josiah Clark Nott" />
+      <node id="Jules Desnoyers" label="Jules Desnoyers" />
+      <node id="Kenneth Robert Henderson Mackenzie" label="Kenneth Robert Henderson Mackenzie" />
+      <node id="Lawson Tait" label="Lawson Tait" />
+      <node id="Leonard Jenyns LATER Blomefield" label="Leonard Jenyns LATER Blomefield" />
+      <node id="Lestock Robert Reid" label="Lestock Robert Reid" />
+      <node id="Lindsay Brine" label="Lindsay Brine" />
+      <node id="Linnean Society of London" label="Linnean Society of London" />
+      <node id="Lionel John Beale" label="Lionel John Beale" />
+      <node id="Louis Philippe d'Orleans Paris" label="Louis Philippe d'Orleans Paris" />
+      <node id="Luke Smyth O'Connor" label="Luke Smyth O'Connor" />
+      <node id="Mark Anthony Lower" label="Mark Anthony Lower" />
+      <node id="Matthew Moggridge" label="Matthew Moggridge" />
+      <node id="Medical and Chirurgical Society of London" label="Medical and Chirurgical Society of London" />
+      <node id="Modeliar P S Mootoosaumy" label="Modeliar P S Mootoosaumy" />
+      <node id="Nicolai de Khanikof" label="Nicolai de Khanikof" />
+      <node id="Norton Shaw" label="Norton Shaw" />
+      <node id="P B Brodie" label="P B Brodie" />
+      <node id="P H Chittenden" label="P H Chittenden" />
+      <node id="P O'Callaghan" label="P O'Callaghan" />
+      <node id="Paul Belloni Du Chaillu" label="Paul Belloni Du Chaillu" />
+      <node id="Paul Gervais" label="Paul Gervais" />
+      <node id="Paul Vibraye" label="Paul Vibraye" />
+      <node id="Peter Dickson" label="Peter Dickson" />
+      <node id="Peter Martin Duncan" label="Peter Martin Duncan" />
+      <node id="Peter Sharp" label="Peter Sharp" />
+      <node id="Philip Southby" label="Philip Southby" />
+      <node id="Pierre Gratiolet" label="Pierre Gratiolet" />
+      <node id="Protheroe Smith" label="Protheroe Smith" />
+      <node id="R E Dudgeon" label="R E Dudgeon" />
+      <node id="R H W Dunlop" label="R H W Dunlop" />
+      <node id="R W Haynes" label="R W Haynes" />
+      <node id="Rajendralala Mitra" label="Rajendralala Mitra" />
+      <node id="Ralph (1) Tate" label="Ralph (1) Tate" />
+      <node id="Ramon de Silva-Ferro" label="Ramon de Silva-Ferro" />
+      <node id="Reginald R Dudley" label="Reginald R Dudley" />
+      <node id="Richard Archer Warwick" label="Richard Archer Warwick" />
+      <node id="Richard Beaumont" label="Richard Beaumont" />
+      <node id="Richard Biddulph Martin" label="Richard Biddulph Martin" />
+      <node id="Richard Cull" label="Richard Cull" />
+      <node id="Richard Edward Arden" label="Richard Edward Arden" />
+      <node id="Richard Haughton" label="Richard Haughton" />
+      <node id="Richard Hill Tiddeman" label="Richard Hill Tiddeman" />
+      <node id="Richard Hughes" label="Richard Hughes" />
+      <node id="Richard Lee" label="Richard Lee" />
+      <node id="Richard Maddock Nunn" label="Richard Maddock Nunn" />
+      <node id="Richard Owen" label="Richard Owen" />
+      <node id="Richard Thomas Gore" label="Richard Thomas Gore" />
+      <node id="Robert Brisco Owen" label="Robert Brisco Owen" />
+      <node id="Robert Carrington" label="Robert Carrington" />
+      <node id="Robert Dukinfield Darbishire" label="Robert Dukinfield Darbishire" />
+      <node id="Robert Dunn" label="Robert Dunn" />
+      <node id="Robert Fitzroy" label="Robert Fitzroy" />
+      <node id="Robert G Moger" label="Robert G Moger" />
+      <node id="Robert Gordon Latham" label="Robert Gordon Latham" />
+      <node id="Robert Ingham" label="Robert Ingham" />
+      <node id="Robert James Mann" label="Robert James Mann" />
+      <node id="Robert Knox" label="Robert Knox" />
+      <node id="Robert M Inman" label="Robert M Inman" />
+      <node id="Robert Menzies" label="Robert Menzies" />
+      <node id="Robert Nicholas Fowler" label="Robert Nicholas Fowler" />
+      <node id="Robert Peel" label="Robert Peel" />
+      <node id="Robert Stirling (1) Newall" label="Robert Stirling (1) Newall" />
+      <node id="Robert Tait" label="Robert Tait" />
+      <node id="Robert Younge" label="Robert Younge" />
+      <node id="Robinson Hudson" label="Robinson Hudson" />
+      <node id="Roderick Impey Murchison" label="Roderick Impey Murchison" />
+      <node id="Royal Asiatic Society" label="Royal Asiatic Society" />
+      <node id="Royal College of Physicians" label="Royal College of Physicians" />
+      <node id="Royal College of Surgeons" label="Royal College of Surgeons" />
+      <node id="Royal Geographical Society" label="Royal Geographical Society" />
+      <node id="Royal Society" label="Royal Society" />
+      <node id="Royal Society of Literature" label="Royal Society of Literature" />
+      <node id="Ryves William Graves" label="Ryves William Graves" />
+      <node id="S  Edwin Collingwood" label="S  Edwin Collingwood" />
+      <node id="S F Simonson" label="S F Simonson" />
+      <node id="S W D Williams" label="S W D Williams" />
+      <node id="S W King" label="S W King" />
+      <node id="Sampson Roch" label="Sampson Roch" />
+      <node id="Samuel Beal" label="Samuel Beal" />
+      <node id="Samuel C Baker" label="Samuel C Baker" />
+      <node id="Samuel Cartwright" label="Samuel Cartwright" />
+      <node id="Samuel Courtauld" label="Samuel Courtauld" />
+      <node id="Samuel Joseph Mackie" label="Samuel Joseph Mackie" />
+      <node id="Samuel Laing" label="Samuel Laing" />
+      <node id="Samuel Maclean" label="Samuel Maclean" />
+      <node id="Samuel Pasfield Oliver" label="Samuel Pasfield Oliver" />
+      <node id="Samuel R J Owen" label="Samuel R J Owen" />
+      <node id="Samuel Reynolds Solly" label="Samuel Reynolds Solly" />
+      <node id="Samuel Sharp" label="Samuel Sharp" />
+      <node id="Samuel Solly" label="Samuel Solly" />
+      <node id="Samuel Timmins" label="Samuel Timmins" />
+      <node id="Samuel William North" label="Samuel William North" />
+      <node id="Samuel Wood" label="Samuel Wood" />
+      <node id="Silas Palmer" label="Silas Palmer" />
+      <node id="Society for the Encouragement of Arts, Manufactures and Commerce" label="Society for the Encouragement of Arts, Manufactures and Commerce" />
+      <node id="Society of Antiquaries" label="Society of Antiquaries" />
+      <node id="Spencer St John" label="Spencer St John" />
+      <node id="St George J Mivart" label="St George J Mivart" />
+      <node id="Sydney Edward Bouverie Bouverie-Pusey" label="Sydney Edward Bouverie Bouverie-Pusey" />
+      <node id="T  George Bonney" label="T  George Bonney" />
+      <node id="T A Blakely" label="T A Blakely" />
+      <node id="T H Hood" label="T H Hood" />
+      <node id="T Postans" label="T Postans" />
+      <node id="Theodore D'Orville Partridge" label="Theodore D'Orville Partridge" />
+      <node id="Thomas (1) Hodgkin" label="Thomas (1) Hodgkin" />
+      <node id="Thomas (2) Tate" label="Thomas (2) Tate" />
+      <node id="Thomas Aitken" label="Thomas Aitken" />
+      <node id="Thomas Alexander Wise" label="Thomas Alexander Wise" />
+      <node id="Thomas Bevill Peacock" label="Thomas Bevill Peacock" />
+      <node id="Thomas Callaway" label="Thomas Callaway" />
+      <node id="Thomas Edmonston" label="Thomas Edmonston" />
+      <node id="Thomas Edward Colebrooke" label="Thomas Edward Colebrooke" />
+      <node id="Thomas Francis Dillon Croker" label="Thomas Francis Dillon Croker" />
+      <node id="Thomas Godrich" label="Thomas Godrich" />
+      <node id="Thomas Harlin" label="Thomas Harlin" />
+      <node id="Thomas Harrington Tuke" label="Thomas Harrington Tuke" />
+      <node id="Thomas Henry Browne" label="Thomas Henry Browne" />
+      <node id="Thomas Henry Huxley" label="Thomas Henry Huxley" />
+      <node id="Thomas Humble" label="Thomas Humble" />
+      <node id="Thomas James Smith" label="Thomas James Smith" />
+      <node id="Thomas Josiah Laing" label="Thomas Josiah Laing" />
+      <node id="Thomas Lampray" label="Thomas Lampray" />
+      <node id="Thomas Lucas" label="Thomas Lucas" />
+      <node id="Thomas McKenny Hughes" label="Thomas McKenny Hughes" />
+      <node id="Thomas Nicholas" label="Thomas Nicholas" />
+      <node id="Thomas Prichard" label="Thomas Prichard" />
+      <node id="Thomas Ryan Pinchis" label="Thomas Ryan Pinchis" />
+      <node id="Thomas Smith" label="Thomas Smith" />
+      <node id="Thomas Squire Barrett" label="Thomas Squire Barrett" />
+      <node id="Thomas Valentine Robins" label="Thomas Valentine Robins" />
+      <node id="Thomas Walker" label="Thomas Walker" />
+      <node id="Thomas William Bowman" label="Thomas William Bowman" />
+      <node id="Thomas William Craster" label="Thomas William Craster" />
+      <node id="Thomas Williams" label="Thomas Williams" />
+      <node id="Thomas Wright" label="Thomas Wright" />
+      <node id="Vavasour Joseph Lane" label="Vavasour Joseph Lane" />
+      <node id="W  Hanks Levy" label="W  Hanks Levy" />
+      <node id="W  Holt Yates" label="W  Holt Yates" />
+      <node id="W B Kesteven" label="W B Kesteven" />
+      <node id="W C Bonnerjee" label="W C Bonnerjee" />
+      <node id="W G E Hobbs" label="W G E Hobbs" />
+      <node id="W Hitchman" label="W Hitchman" />
+      <node id="W J S Horton" label="W J S Horton" />
+      <node id="W J Sharpe" label="W J Sharpe" />
+      <node id="W Pinkerton" label="W Pinkerton" />
+      <node id="W R Milner" label="W R Milner" />
+      <node id="W Sharp" label="W Sharp" />
+      <node id="Walter Hawkins" label="Walter Hawkins" />
+      <node id="Walter McLeod" label="Walter McLeod" />
+      <node id="Walter Moxon" label="Walter Moxon" />
+      <node id="Wentworth Lascelles Scott" label="Wentworth Lascelles Scott" />
+      <node id="William (2) Adams" label="William (2) Adams" />
+      <node id="William Amhurst Tyssen Amhurst" label="William Amhurst Tyssen Amhurst" />
+      <node id="William Armstrong" label="William Armstrong" />
+      <node id="William Arthur" label="William Arthur" />
+      <node id="William Arthur Jones" label="William Arthur Jones" />
+      <node id="William Babington" label="William Babington" />
+      <node id="William Baird Airston" label="William Baird Airston" />
+      <node id="William Barrington D'Almeida" label="William Barrington D'Almeida" />
+      <node id="William Battye" label="William Battye" />
+      <node id="William Beattie" label="William Beattie" />
+      <node id="William Binnington Boyce" label="William Binnington Boyce" />
+      <node id="William Bollaert" label="William Bollaert" />
+      <node id="William Boyd Dawkins" label="William Boyd Dawkins" />
+      <node id="William Bragge" label="William Bragge" />
+      <node id="William Bull" label="William Bull" />
+      <node id="William C Copperthwaite" label="William C Copperthwaite" />
+      <node id="William Charles Lucy" label="William Charles Lucy" />
+      <node id="William Clift" label="William Clift" />
+      <node id="William Collings Lukis" label="William Collings Lukis" />
+      <node id="William Cort Wright" label="William Cort Wright" />
+      <node id="William Cory" label="William Cory" />
+      <node id="William Davies" label="William Davies" />
+      <node id="William Devonshire Saull" label="William Devonshire Saull" />
+      <node id="William Dingle Chowne" label="William Dingle Chowne" />
+      <node id="William Dinsdale Child" label="William Dinsdale Child" />
+      <node id="William Donald Napier" label="William Donald Napier" />
+      <node id="William Duckworth" label="William Duckworth" />
+      <node id="William Eassie" label="William Eassie" />
+      <node id="William Edward Bartlett" label="William Edward Bartlett" />
+      <node id="William Elphinstone Malcolm" label="William Elphinstone Malcolm" />
+      <node id="William Fairbairn" label="William Fairbairn" />
+      <node id="William Ferguson" label="William Ferguson" />
+      <node id="William Fothergill Cooke" label="William Fothergill Cooke" />
+      <node id="William Francis Harrison Ainsworth" label="William Francis Harrison Ainsworth" />
+      <node id="William Francis Ramsay" label="William Francis Ramsay" />
+      <node id="William Frederick Cowell Stepney" label="William Frederick Cowell Stepney" />
+      <node id="William Freeman Daniell" label="William Freeman Daniell" />
+      <node id="William Greenwell" label="William Greenwell" />
+      <node id="William Harding" label="William Harding" />
+      <node id="William Hardman" label="William Hardman" />
+      <node id="William Henry Claus" label="William Henry Claus" />
+      <node id="William Henry Morgan" label="William Henry Morgan" />
+      <node id="William Henry Sherwood" label="William Henry Sherwood" />
+      <node id="William Henry Spencer" label="William Henry Spencer" />
+      <node id="William Jardine" label="William Jardine" />
+      <node id="William Jennings" label="William Jennings" />
+      <node id="William Jepson" label="William Jepson" />
+      <node id="William Keene" label="William Keene" />
+      <node id="William Lawrence" label="William Lawrence" />
+      <node id="William Lockhart" label="William Lockhart" />
+      <node id="William Longman" label="William Longman" />
+      <node id="William MacDonald" label="William MacDonald" />
+      <node id="William Monk" label="William Monk" />
+      <node id="William Napier" label="William Napier" />
+      <node id="William Nathan Chipperfield" label="William Nathan Chipperfield" />
+      <node id="William Newmarch" label="William Newmarch" />
+      <node id="William Newton Wilson" label="William Newton Wilson" />
+      <node id="William Ogilby" label="William Ogilby" />
+      <node id="William Paley" label="William Paley" />
+      <node id="William Perkins" label="William Perkins" />
+      <node id="William Robinson" label="William Robinson" />
+      <node id="William Roby Barr" label="William Roby Barr" />
+      <node id="William Salmon" label="William Salmon" />
+      <node id="William Samuel Symonds" label="William Samuel Symonds" />
+      <node id="William Sandys Wright Vaux" label="William Sandys Wright Vaux" />
+      <node id="William Severin Salting" label="William Severin Salting" />
+      <node id="William Spence" label="William Spence" />
+      <node id="William Spottiswoode" label="William Spottiswoode" />
+      <node id="William Stephen Mitchell" label="William Stephen Mitchell" />
+      <node id="William Story" label="William Story" />
+      <node id="William T Pritchard" label="William T Pritchard" />
+      <node id="William Tooke" label="William Tooke" />
+      <node id="William Travers" label="William Travers" />
+      <node id="William Vernon Guise" label="William Vernon Guise" />
+      <node id="William Winwood Reade" label="William Winwood Reade" />
+      <node id="William, Jun Theobald" label="William, Jun Theobald" />
+      <node id="Worthington George Smith" label="Worthington George Smith" />
+      <node id="Zoological Society" label="Zoological Society" />
+      <node id="x Beechey" label="x Beechey" />
+      <node id="x Best" label="x Best" />
+      <node id="x Boucher de Crevecoeur de Perthes" label="x Boucher de Crevecoeur de Perthes" />
+      <node id="x Brougham" label="x Brougham" />
+      <node id="x Brown-Sequard" label="x Brown-Sequard" />
+      <node id="x Clarendon" label="x Clarendon" />
+      <node id="x Derby (formerly Stanley)" label="x Derby (formerly Stanley)" />
+      <node id="x Dunraven &amp; Mountearl" label="x Dunraven &amp; Mountearl" />
+      <node id="x Houghton" label="x Houghton" />
+      <node id="x Kaup" label="x Kaup" />
+      <node id="x Londesborough" label="x Londesborough" />
+      <node id="x Martin-Magron" label="x Martin-Magron" />
+      <node id="x Milton" label="x Milton" />
+      <node id="x Moon" label="x Moon" />
+      <node id="x Ripon, De Grey and" label="x Ripon, De Grey and" />
+      <node id="x Rosehill" label="x Rosehill" />
+      <node id="x Strangford" label="x Strangford" />
+    </nodes>
+    <edges>
+      <edge source="A , jun Ramsay" target="Geological Society" id="0" />
+      <edge source="A G Cross" target="Royal College of Surgeons" id="1" />
+      <edge source="A Ioannides" target="Royal College of Physicians" id="2" />
+      <edge source="Alan Cornwall Blackstone" target="Royal Geographical Society" id="3" />
+      <edge source="Alexander McArthur" target="Royal Geographical Society" id="4" />
+      <edge source="Alexander Michie" target="Royal Geographical Society" id="5" />
+      <edge source="Alexander Nasmyth" target="Royal College of Surgeons" id="6" />
+      <edge source="Alexander Norman Tate" target="Chemical Society" id="7" />
+      <edge source="Alexander Patrick Stewart" target="Medical and Chirurgical Society of London" id="8" />
+      <edge source="Alfred Barton" target="Royal Geographical Society" id="9" />
+      <edge source="Alfred Gutteres Henriques" target="Geological Society" id="10" />
+      <edge source="Alfred Hewlett" target="Geological Society" id="11" />
+      <edge source="Alfred Higgins" target="Anthropological Society of Paris" id="12" />
+      <edge source="Alfred Russel Wallace" target="Royal Society" id="13" />
+      <edge source="Alfred Russel Wallace" target="Linnean Society of London" id="14" />
+      <edge source="Alfred Russel Wallace" target="Royal Geographical Society" id="15" />
+      <edge source="Alfred Russel Wallace" target="Zoological Society" id="16" />
+      <edge source="Alfred Sanders" target="Linnean Society of London" id="17" />
+      <edge source="Alfred Sanders" target="Royal College of Surgeons" id="18" />
+      <edge source="Alfred Sanders" target="Zoological Society" id="19" />
+      <edge source="Alfred Tubb Windus" target="Royal Geographical Society" id="20" />
+      <edge source="Alfred Wiltshire" target="Royal College of Physicians" id="21" />
+      <edge source="Amos Beardsley" target="Linnean Society of London" id="22" />
+      <edge source="Amos Beardsley" target="Geological Society" id="23" />
+      <edge source="Andrew Gilmour" target="Royal College of Physicians" id="24" />
+      <edge source="Andrew Scott Waugh" target="Royal Society" id="25" />
+      <edge source="Andrew Smith" target="Royal Society" id="26" />
+      <edge source="Anthropological Society of Paris" target="Thomas Aitken" id="27" />
+      <edge source="Anthropological Society of Paris" target="Carl Ernst von Baer" id="28" />
+      <edge source="Anthropological Society of Paris" target="x Boucher de Crevecoeur de Perthes" id="29" />
+      <edge source="Anthropological Society of Paris" target="Edward William Brabrook" id="30" />
+      <edge source="Anthropological Society of Paris" target="John Frederick Collingwood" id="31" />
+      <edge source="Anthropological Society of Paris" target="F L Cotton" id="32" />
+      <edge source="Anthropological Society of Paris" target="J W  Conrad Cox" id="33" />
+      <edge source="Anthropological Society of Paris" target="Eugene Dally" id="34" />
+      <edge source="Anthropological Society of Paris" target="Camille Dareste" id="35" />
+      <edge source="Anthropological Society of Paris" target="Pierre Gratiolet" id="36" />
+      <edge source="Anthropological Society of Paris" target="James Hunt" id="37" />
+      <edge source="Anthropological Society of Paris" target="Nicolai de Khanikof" id="38" />
+      <edge source="Anthropological Society of Paris" target="Robert Knox" id="39" />
+      <edge source="Anthropological Society of Paris" target="Augustus Henry Lane Fox later Pitt Rivers" id="40" />
+      <edge source="Anthropological Society of Paris" target="John Lubbock" id="41" />
+      <edge source="Anthropological Society of Paris" target="x Martin-Magron" id="42" />
+      <edge source="Anthropological Society of Paris" target="James Aitken Meigs" id="43" />
+      <edge source="Anthropological Society of Paris" target="J P Morris" id="44" />
+      <edge source="Anthropological Society of Paris" target="Josiah Clark Nott" id="45" />
+      <edge source="Anthropological Society of Paris" target="Ernest Renan" id="46" />
+      <edge source="Anthropological Society of Paris" target="George E Roberts" id="47" />
+      <edge source="Anthropological Society of Paris" target="William Robinson" id="48" />
+      <edge source="Anthropological Society of Paris" target="Frederick William Rudler" id="49" />
+      <edge source="Anthropological Society of Paris" target="William Frederick Cowell Stepney" id="50" />
+      <edge source="Anthropological Society of Paris" target="John Thurnam" id="51" />
+      <edge source="Antonio Brady" target="Geological Society" id="52" />
+      <edge source="Antonio Brady" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="53" />
+      <edge source="Archibald Campbell" target="Linnean Society of London" id="54" />
+      <edge source="Arthur Charles Wriothesley Lennox" target="Geological Society" id="55" />
+      <edge source="Arthur Chilver Tupper" target="Society of Antiquaries" id="56" />
+      <edge source="Arthur Giles Puller" target="Society of Antiquaries" id="57" />
+      <edge source="Arthur Trevelyan" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="58" />
+      <edge source="August Friedrich Marschall von Burgholzhausen" target="Geological Society" id="59" />
+      <edge source="Augustus Goldsmid" target="Society of Antiquaries" id="60" />
+      <edge source="Augustus Goldsmid" target="Zoological Society" id="61" />
+      <edge source="Augustus Henry Lane Fox later Pitt Rivers" target="Society of Antiquaries" id="62" />
+      <edge source="Augustus Henry Lane Fox later Pitt Rivers" target="Geological Society" id="63" />
+      <edge source="Augustus Henry Lane Fox later Pitt Rivers" target="Royal Geographical Society" id="64" />
+      <edge source="Augustus Henry Lane Fox later Pitt Rivers" target="Royal Society" id="65" />
+      <edge source="Augustus Jessopp" target="Royal Geographical Society" id="66" />
+      <edge source="Augustus Wollaston Franks" target="Society of Antiquaries" id="67" />
+      <edge source="Augustus Wollaston Franks" target="Royal Society" id="68" />
+      <edge source="Augustus Wollaston Franks" target="Royal Geographical Society" id="69" />
+      <edge source="Augustus Wollaston Franks" target="Geological Society" id="70" />
+      <edge source="Augustus Wollaston Franks" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="71" />
+      <edge source="B H Paul" target="Chemical Society" id="72" />
+      <edge source="Balthazar Walter Foster" target="Linnean Society of London" id="73" />
+      <edge source="Balthazar Walter Foster" target="Medical and Chirurgical Society of London" id="74" />
+      <edge source="Barr Meadows" target="Royal College of Physicians" id="75" />
+      <edge source="Barr Meadows" target="Royal College of Surgeons" id="76" />
+      <edge source="Bath Charles Smart" target="Royal College of Surgeons" id="77" />
+      <edge source="Bedford Pim" target="Royal Geographical Society" id="78" />
+      <edge source="Benjamin Bond Cabbell" target="Royal Society" id="79" />
+      <edge source="Benjamin Bond Cabbell" target="Society of Antiquaries" id="80" />
+      <edge source="Benjamin Bond Cabbell" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="81" />
+      <edge source="Benjamin Collins Brodie" target="Chemical Society" id="82" />
+      <edge source="Benjamin Phillips" target="Royal Society" id="83" />
+      <edge source="Benson Baker" target="Royal College of Physicians" id="84" />
+      <edge source="Beriah Botfield" target="Royal Society" id="85" />
+      <edge source="Beriah Botfield" target="Society of Antiquaries" id="86" />
+      <edge source="Beriah Botfield" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="87" />
+      <edge source="Bernard Edward Brodhurst" target="Royal College of Surgeons" id="88" />
+      <edge source="Bernard Quaritch" target="Zoological Society" id="89" />
+      <edge source="Berthold Seemann" target="Linnean Society of London" id="90" />
+      <edge source="Berthold Seemann" target="Royal Geographical Society" id="91" />
+      <edge source="Brian Houghton Hodgson" target="Royal Asiatic Society" id="92" />
+      <edge source="Brian Houghton Hodgson" target="Linnean Society of London" id="93" />
+      <edge source="Brian Houghton Hodgson" target="Royal Society" id="94" />
+      <edge source="Buchanan Washbourn" target="Royal College of Physicians" id="95" />
+      <edge source="C  Treasure Jones" target="Royal Asiatic Society" id="96" />
+      <edge source="C E Harle" target="Royal College of Surgeons" id="97" />
+      <edge source="C T Gardner" target="Royal Geographical Society" id="98" />
+      <edge source="Champion Wetton" target="Royal Geographical Society" id="99" />
+      <edge source="Charles (1) Harrison" target="Royal Society of Literature" id="100" />
+      <edge source="Charles (1) Harrison" target="Society of Antiquaries" id="101" />
+      <edge source="Charles Adolphe Morlot" target="Geological Society" id="102" />
+      <edge source="Charles Brett" target="Royal Geographical Society" id="103" />
+      <edge source="Charles Buxton" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="104" />
+      <edge source="Charles Cardale Babington" target="Royal Society" id="105" />
+      <edge source="Charles Cardale Babington" target="Society of Antiquaries" id="106" />
+      <edge source="Charles Cardale Babington" target="Linnean Society of London" id="107" />
+      <edge source="Charles Cardale Babington" target="Geological Society" id="108" />
+      <edge source="Charles Cornish Brown" target="Royal College of Surgeons" id="109" />
+      <edge source="Charles Darwin" target="Royal Society" id="110" />
+      <edge source="Charles Darwin" target="Geological Society" id="111" />
+      <edge source="Charles Darwin" target="Linnean Society of London" id="112" />
+      <edge source="Charles Duncan Cameron" target="Royal Asiatic Society" id="113" />
+      <edge source="Charles Duncan Cameron" target="Royal Geographical Society" id="114" />
+      <edge source="Charles Edward Gover" target="Royal Asiatic Society" id="115" />
+      <edge source="Charles Francis Lewis" target="Royal College of Physicians" id="116" />
+      <edge source="Charles Francis Lewis" target="Royal College of Surgeons" id="117" />
+      <edge source="Charles H L Woodd" target="Geological Society" id="118" />
+      <edge source="Charles H L Woodd" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="119" />
+      <edge source="Charles Harcourt Chambers" target="Royal Geographical Society" id="120" />
+      <edge source="Charles Harding" target="Royal Geographical Society" id="121" />
+      <edge source="Charles Harding" target="Royal Society of Literature" id="122" />
+      <edge source="Charles Henry Gatty" target="Linnean Society of London" id="123" />
+      <edge source="Charles Henry Gatty" target="Geological Society" id="124" />
+      <edge source="Charles Jellicoe" target="Royal Geographical Society" id="125" />
+      <edge source="Charles Kingsley" target="Linnean Society of London" id="126" />
+      <edge source="Charles Kingsley" target="Geological Society" id="127" />
+      <edge source="Charles Lyell" target="Royal Society" id="128" />
+      <edge source="Charles Lyell" target="Geological Society" id="129" />
+      <edge source="Charles Malcolm" target="Royal Geographical Society" id="130" />
+      <edge source="Charles Nicholson" target="Royal Society of Literature" id="131" />
+      <edge source="Charles Nicholson" target="Royal Geographical Society" id="132" />
+      <edge source="Charles Nicholson" target="Royal Asiatic Society" id="133" />
+      <edge source="Charles Ottley Groom Napier" target="Geological Society" id="134" />
+      <edge source="Charles Ottley Groom Napier" target="Linnean Society of London" id="135" />
+      <edge source="Charles Pyndar Beauchamp Walker" target="Royal Geographical Society" id="136" />
+      <edge source="Charles Radcliffe Bond" target="Royal College of Surgeons" id="137" />
+      <edge source="Charles Ratcliff" target="Royal Society of Literature" id="138" />
+      <edge source="Charles Ratcliff" target="Royal Geographical Society" id="139" />
+      <edge source="Charles Ratcliff" target="Linnean Society of London" id="140" />
+      <edge source="Charles Ratcliff" target="Society of Antiquaries" id="141" />
+      <edge source="Charles Ratcliff" target="Geological Society" id="142" />
+      <edge source="Charles Ratcliff" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="143" />
+      <edge source="Charles Robert des Ruffieres" target="Geological Society" id="144" />
+      <edge source="Charles Robert des Ruffieres" target="Royal Society of Literature" id="145" />
+      <edge source="Charles Robert des Ruffieres" target="Royal College of Surgeons" id="146" />
+      <edge source="Charles Rooke" target="Geological Society" id="147" />
+      <edge source="Charles Rowland Goodman" target="Royal College of Surgeons" id="148" />
+      <edge source="Charles Thomas Pearce" target="Royal College of Surgeons" id="149" />
+      <edge source="Charles Wentworth Dilke" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="150" />
+      <edge source="Charles William Devis" target="Zoological Society" id="151" />
+      <edge source="Charles William Hoyland" target="Royal College of Surgeons" id="152" />
+      <edge source="Chemical Society" target="Edward Arnold" id="153" />
+      <edge source="Chemical Society" target="Frederick Braby" id="154" />
+      <edge source="Chemical Society" target="Edwin Ormond Brown" id="155" />
+      <edge source="Chemical Society" target="Francis Griffiths" id="156" />
+      <edge source="Chemical Society" target="F Hudson" id="157" />
+      <edge source="Chemical Society" target="Henry Hudson" id="158" />
+      <edge source="Chemical Society" target="Joseph Ince" id="159" />
+      <edge source="Chemical Society" target="G H Ogston" id="160" />
+      <edge source="Chemical Society" target="James Rae" id="161" />
+      <edge source="Chemical Society" target="Francis Ignatio Rickard" id="162" />
+      <edge source="Chemical Society" target="Wentworth Lascelles Scott" id="163" />
+      <edge source="Chemical Society" target="Thomas James Smith" id="164" />
+      <edge source="Chemical Society" target="James Alfred Wanklyn" id="165" />
+      <edge source="Chemical Society" target="William Cort Wright" id="166" />
+      <edge source="Clements Robert Markham" target="Royal Geographical Society" id="167" />
+      <edge source="Connop Thirlwall" target="Royal Society of Literature" id="168" />
+      <edge source="Connop Thirlwall" target="Royal Geographical Society" id="169" />
+      <edge source="Connop Thirlwall" target="Geological Society" id="170" />
+      <edge source="Connop Thirlwall" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="171" />
+      <edge source="Cornelius Walford" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="172" />
+      <edge source="Coryndon H Luxmoore" target="Society of Antiquaries" id="173" />
+      <edge source="Cunningham Borthwick" target="Society of Antiquaries" id="174" />
+      <edge source="D G F Macdonald" target="Royal Society of Literature" id="175" />
+      <edge source="D G F Macdonald" target="Royal Geographical Society" id="176" />
+      <edge source="D W Nash" target="Society of Antiquaries" id="177" />
+      <edge source="Daniel Brooke Robertson" target="Royal Geographical Society" id="178" />
+      <edge source="Daniel Mackintosh" target="Geological Society" id="179" />
+      <edge source="David Forbes" target="Royal Society" id="180" />
+      <edge source="David Forbes" target="Geological Society" id="181" />
+      <edge source="David Mackintosh" target="Geological Society" id="182" />
+      <edge source="David Morris" target="Society of Antiquaries" id="183" />
+      <edge source="David Salomons" target="Royal Society of Literature" id="184" />
+      <edge source="Davyd William Nash" target="Royal Society of Literature" id="185" />
+      <edge source="Douglas Galton" target="Royal Society" id="186" />
+      <edge source="Douglas Galton" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="187" />
+      <edge source="Douglas Galton" target="Linnean Society of London" id="188" />
+      <edge source="Douglas Galton" target="Geological Society" id="189" />
+      <edge source="Draper Mackinder" target="Royal College of Surgeons" id="190" />
+      <edge source="Draper Mackinder" target="Medical and Chirurgical Society of London" id="191" />
+      <edge source="Dunbar Isidore Heath" target="Royal Society of Literature" id="192" />
+      <edge source="Dunbar Isidore Heath" target="Royal Asiatic Society" id="193" />
+      <edge source="Duncan W Forbes" target="Royal College of Surgeons" id="194" />
+      <edge source="E B Tawney" target="Geological Society" id="195" />
+      <edge source="E J Routh" target="Geological Society" id="196" />
+      <edge source="E V Gardner" target="Society of Antiquaries" id="197" />
+      <edge source="Edmund Lloyd" target="Royal College of Surgeons" id="198" />
+      <edge source="Edouard J Villin" target="Royal Society of Literature" id="199" />
+      <edge source="Edward (1) Lawrence" target="Royal Geographical Society" id="200" />
+      <edge source="Edward Bellamy" target="Royal Geographical Society" id="201" />
+      <edge source="Edward C Anderson" target="Royal College of Surgeons" id="202" />
+      <edge source="Edward Charlesworth" target="Geological Society" id="203" />
+      <edge source="Edward Jackson Riccard" target="Royal College of Surgeons" id="204" />
+      <edge source="Edward Lawford" target="Society of Antiquaries" id="205" />
+      <edge source="Edward Lund" target="Royal College of Surgeons" id="206" />
+      <edge source="Edward O'Riley" target="Royal Geographical Society" id="207" />
+      <edge source="Edward Osborne Smith" target="Royal Geographical Society" id="208" />
+      <edge source="Edward Peacock" target="Society of Antiquaries" id="209" />
+      <edge source="Edward Price Houghton" target="Royal College of Surgeons" id="210" />
+      <edge source="Edward Ryan" target="Royal Geographical Society" id="211" />
+      <edge source="Edward Ryan" target="Royal Society" id="212" />
+      <edge source="Edward Spooner" target="Royal Asiatic Society" id="213" />
+      <edge source="Edward William Brabrook" target="Society of Antiquaries" id="214" />
+      <edge source="Edward William Brabrook" target="Royal Society of Literature" id="215" />
+      <edge source="Edward Wood" target="Geological Society" id="216" />
+      <edge source="Edwin Brown" target="Geological Society" id="217" />
+      <edge source="Edwin Brown" target="Royal Geographical Society" id="218" />
+      <edge source="Edwin Chadwick" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="219" />
+      <edge source="Edwin Henry Baverstock" target="Royal Society of Literature" id="220" />
+      <edge source="Edwin Ransom" target="Royal Geographical Society" id="221" />
+      <edge source="Edwin Ransom" target="Royal Asiatic Society" id="222" />
+      <edge source="Ernest Abraham Hart" target="Royal College of Surgeons" id="223" />
+      <edge source="F T Littey" target="Royal College of Surgeons" id="224" />
+      <edge source="Flaxman Spurrell" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="225" />
+      <edge source="Francis Duncan" target="Geological Society" id="226" />
+      <edge source="Francis Duncan" target="Royal Geographical Society" id="227" />
+      <edge source="Francis Egerton" target="Royal Society" id="228" />
+      <edge source="Francis G P Neison" target="Linnean Society of London" id="229" />
+      <edge source="Francis Galton" target="Royal Society" id="230" />
+      <edge source="Francis Galton" target="Geological Society" id="231" />
+      <edge source="Francis Galton" target="Royal Geographical Society" id="232" />
+      <edge source="Francis Griffiths" target="Royal College of Surgeons" id="233" />
+      <edge source="Francis Ignatio Rickard" target="Geological Society" id="234" />
+      <edge source="Francis Kerridge Munton" target="Royal Geographical Society" id="235" />
+      <edge source="Francis R Spry" target="Geological Society" id="236" />
+      <edge source="Francis R Spry" target="Royal Geographical Society" id="237" />
+      <edge source="Francis Tagart" target="Royal Geographical Society" id="238" />
+      <edge source="Francois Jules Pictet" target="Geological Society" id="239" />
+      <edge source="Frank Chance" target="Royal College of Physicians" id="240" />
+      <edge source="Frank Chance" target="Medical and Chirurgical Society of London" id="241" />
+      <edge source="Frank Chance" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="242" />
+      <edge source="Frederick Braby" target="Geological Society" id="243" />
+      <edge source="Frederick Braby" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="244" />
+      <edge source="Frederick Butler Montgomerie" target="Royal Geographical Society" id="245" />
+      <edge source="Frederick Cock" target="Royal College of Surgeons" id="246" />
+      <edge source="Frederick Edward Pearse" target="Royal College of Surgeons" id="247" />
+      <edge source="Frederick George Hilton Price" target="Society of Antiquaries" id="248" />
+      <edge source="Frederick George Hilton Price" target="Royal Geographical Society" id="249" />
+      <edge source="Frederick George Hilton Price" target="Geological Society" id="250" />
+      <edge source="Frederick George Hilton Price" target="Zoological Society" id="251" />
+      <edge source="Frederick George Lee" target="Society of Antiquaries" id="252" />
+      <edge source="Frederick Hindmarsh" target="Geological Society" id="253" />
+      <edge source="Frederick Hindmarsh" target="Royal Geographical Society" id="254" />
+      <edge source="Frederick King Green" target="Royal College of Surgeons" id="255" />
+      <edge source="Frederick Mackenzie Skues" target="Zoological Society" id="256" />
+      <edge source="Frederick Ouvry" target="Society of Antiquaries" id="257" />
+      <edge source="Frederick R Izard" target="Royal Geographical Society" id="258" />
+      <edge source="Frederick Theed" target="Royal College of Surgeons" id="259" />
+      <edge source="Frederick W Aley" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="260" />
+      <edge source="Frederick William Rudler" target="Geological Society" id="261" />
+      <edge source="G P Dall" target="Royal College of Surgeons" id="262" />
+      <edge source="Geological Society" target="William Francis Harrison Ainsworth" id="263" />
+      <edge source="Geological Society" target="Richard Edward Arden" id="264" />
+      <edge source="Geological Society" target="William Roby Barr" id="265" />
+      <edge source="Geological Society" target="George William Barrington" id="266" />
+      <edge source="Geological Society" target="Henry S Boase" id="267" />
+      <edge source="Geological Society" target="W C Bonnerjee" id="268" />
+      <edge source="Geological Society" target="T  George Bonney" id="269" />
+      <edge source="Geological Society" target="x Boucher de Crevecoeur de Perthes" id="270" />
+      <edge source="Geological Society" target="William Bragge" id="271" />
+      <edge source="Geological Society" target="P B Brodie" id="272" />
+      <edge source="Geological Society" target="John Allen Brown" id="273" />
+      <edge source="Geological Society" target="Thomas Henry Browne" id="274" />
+      <edge source="Geological Society" target="James Buckman" id="275" />
+      <edge source="Geological Society" target="William Bull" id="276" />
+      <edge source="Geological Society" target="George Busk" id="277" />
+      <edge source="Geological Society" target="Samuel Cartwright" id="278" />
+      <edge source="Geological Society" target="Henry Christy" id="279" />
+      <edge source="Geological Society" target="John (2) Cleghorn" id="280" />
+      <edge source="Geological Society" target="John Frederick Collingwood" id="281" />
+      <edge source="Geological Society" target="William Cory" id="282" />
+      <edge source="Geological Society" target="Handel Cossham" id="283" />
+      <edge source="Geological Society" target="J W  Conrad Cox" id="284" />
+      <edge source="Geological Society" target="George Cutler" id="285" />
+      <edge source="Geological Society" target="Jean Baptiste Julien D'Omalius d'Halloy" id="286" />
+      <edge source="Geological Society" target="Robert Dukinfield Darbishire" id="287" />
+      <edge source="Geological Society" target="William Boyd Dawkins" id="288" />
+      <edge source="Geological Society" target="George Dawson" id="289" />
+      <edge source="Geological Society" target="Jules Desnoyers" id="290" />
+      <edge source="Geological Society" target="Henry Duckworth" id="291" />
+      <edge source="Geological Society" target="Peter Martin Duncan" id="292" />
+      <edge source="Geological Society" target="William Eassie" id="293" />
+      <edge source="Geological Society" target="John Evans" id="294" />
+      <edge source="Geological Society" target="William Ferguson" id="295" />
+      <edge source="Geological Society" target="John Wickham Flower" id="296" />
+      <edge source="Geological Society" target="Paul Gervais" id="297" />
+      <edge source="Geological Society" target="George Duncan Gibb" id="298" />
+      <edge source="Geological Society" target="George Bellas Greenough" id="299" />
+      <edge source="Geological Society" target="William Vernon Guise" id="300" />
+      <edge source="Geological Society" target="John Gunn" id="301" />
+      <edge source="Geological Society" target="Thomas Harlin" id="302" />
+      <edge source="Geological Society" target="James Heywood" id="303" />
+      <edge source="Geological Society" target="T H Hood" id="304" />
+      <edge source="Geological Society" target="Thomas McKenny Hughes" id="305" />
+      <edge source="Geological Society" target="Thomas Henry Huxley" id="306" />
+      <edge source="Geological Society" target="Henry (the son) Jackson" id="307" />
+      <edge source="Geological Society" target="Leonard Jenyns LATER Blomefield" id="308" />
+      <edge source="Geological Society" target="John Jones" id="309" />
+      <edge source="Geological Society" target="William Arthur Jones" id="310" />
+      <edge source="Geological Society" target="x Kaup" id="311" />
+      <edge source="Geological Society" target="William Keene" id="312" />
+      <edge source="Geological Society" target="James Kernahan" id="313" />
+      <edge source="Geological Society" target="S W King" id="314" />
+      <edge source="Geological Society" target="Samuel Laing" id="315" />
+      <edge source="Geological Society" target="Thomas Josiah Laing" id="316" />
+      <edge source="Geological Society" target="John Lancaster" id="317" />
+      <edge source="Geological Society" target="John Lee (2)" id="318" />
+      <edge source="Geological Society" target="John Lister" id="319" />
+      <edge source="Geological Society" target="James L Lobley" id="320" />
+      <edge source="Geological Society" target="J R Logan" id="321" />
+      <edge source="Geological Society" target="William Longman" id="322" />
+      <edge source="Geological Society" target="John Lubbock" id="323" />
+      <edge source="Geological Society" target="William Charles Lucy" id="324" />
+      <edge source="Geological Society" target="William MacDonald" id="325" />
+      <edge source="Geological Society" target="Samuel Joseph Mackie" id="326" />
+      <edge source="Geological Society" target="John (2) Martin" id="327" />
+      <edge source="Geological Society" target="John Magens Mello" id="328" />
+      <edge source="Geological Society" target="Joseph Milligan" id="329" />
+      <edge source="Geological Society" target="Henri Milne-Edwards" id="330" />
+      <edge source="Geological Society" target="William Stephen Mitchell" id="331" />
+      <edge source="Geological Society" target="Matthew Moggridge" id="332" />
+      <edge source="Geological Society" target="x Moon" id="333" />
+      <edge source="Geological Society" target="Thomas Nicholas" id="334" />
+      <edge source="Geological Society" target="John William Willoughby Osborne" id="335" />
+      <edge source="Geological Society" target="John Plant" id="336" />
+      <edge source="Geological Society" target="Joseph Prestwich" id="337" />
+      <edge source="Geological Society" target="James Coxon Richardson" id="338" />
+      <edge source="Geological Society" target="John Henry Rivett-Carnac" id="339" />
+      <edge source="Geological Society" target="George E Roberts" id="340" />
+      <edge source="Geological Society" target="William Salmon" id="341" />
+      <edge source="Geological Society" target="William Devonshire Saull" id="342" />
+      <edge source="Geological Society" target="Samuel Sharp" id="343" />
+      <edge source="Geological Society" target="Ramon de Silva-Ferro" id="344" />
+      <edge source="Geological Society" target="Thomas James Smith" id="345" />
+      <edge source="Geological Society" target="Philip Southby" id="346" />
+      <edge source="Geological Society" target="William Henry Spencer" id="347" />
+      <edge source="Geological Society" target="George St Clair" id="348" />
+      <edge source="Geological Society" target="Japetus Steenstrup" id="349" />
+      <edge source="Geological Society" target="William Frederick Cowell Stepney" id="350" />
+      <edge source="Geological Society" target="John James Sturz" id="351" />
+      <edge source="Geological Society" target="William Samuel Symonds" id="352" />
+      <edge source="Geological Society" target="George Tate" id="353" />
+      <edge source="Geological Society" target="Ralph (1) Tate" id="354" />
+      <edge source="Geological Society" target="William, Jun Theobald" id="355" />
+      <edge source="Geological Society" target="Richard Hill Tiddeman" id="356" />
+      <edge source="Geological Society" target="Paul Vibraye" id="357" />
+      <edge source="Geological Society" target="J  Spotswood Wilson" id="358" />
+      <edge source="Geological Society" target="Henry Hoyte Winwood" id="359" />
+      <edge source="George Alexander James" target="Royal Geographical Society" id="360" />
+      <edge source="George Balfour" target="Royal Geographical Society" id="361" />
+      <edge source="George Bellas Greenough" target="Royal Society" id="362" />
+      <edge source="George Busk" target="Royal College of Surgeons" id="363" />
+      <edge source="George Busk" target="Royal Society" id="364" />
+      <edge source="George Busk" target="Linnean Society of London" id="365" />
+      <edge source="George Busk" target="Zoological Society" id="366" />
+      <edge source="George Calvert" target="Royal College of Surgeons" id="367" />
+      <edge source="George Critchett" target="Royal College of Surgeons" id="368" />
+      <edge source="George Curling Joad" target="Zoological Society" id="369" />
+      <edge source="George Cutler" target="Royal Society of Literature" id="370" />
+      <edge source="George Cutler" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="371" />
+      <edge source="George Dibley" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="372" />
+      <edge source="George Fleming" target="Royal College of Surgeons" id="373" />
+      <edge source="George Fleming" target="Royal Geographical Society" id="374" />
+      <edge source="George Ford Copeland" target="Royal College of Surgeons" id="375" />
+      <edge source="George Ford Copeland" target="Medical and Chirurgical Society of London" id="376" />
+      <edge source="George Granville Francis Egerton" target="Royal Society" id="377" />
+      <edge source="George Hill" target="Royal College of Physicians" id="378" />
+      <edge source="George Lade" target="Royal College of Surgeons" id="379" />
+      <edge source="George Macleay" target="Linnean Society of London" id="380" />
+      <edge source="George Maw" target="Society of Antiquaries" id="381" />
+      <edge source="George Michael Perry" target="Royal College of Surgeons" id="382" />
+      <edge source="George Rolleston" target="Royal Society" id="383" />
+      <edge source="George Rolleston" target="Royal College of Physicians" id="384" />
+      <edge source="George S  Lennon Hunt" target="Royal Geographical Society" id="385" />
+      <edge source="George Sexton" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="386" />
+      <edge source="George Suttor" target="Linnean Society of London" id="387" />
+      <edge source="George Suttor" target="Royal Geographical Society" id="388" />
+      <edge source="George Walker" target="Royal College of Surgeons" id="389" />
+      <edge source="George Waterhouse" target="Zoological Society" id="390" />
+      <edge source="George William Barrington" target="Royal Geographical Society" id="391" />
+      <edge source="George William Septimus Piesse" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="392" />
+      <edge source="George Windsor Earl" target="Royal Asiatic Society" id="393" />
+      <edge source="George Witt" target="Royal Society" id="394" />
+      <edge source="H  Burnard Owen" target="Royal Society of Literature" id="395" />
+      <edge source="H  Burnard Owen" target="Royal Geographical Society" id="396" />
+      <edge source="H  Hodgson Rugg" target="Royal College of Surgeons" id="397" />
+      <edge source="H  Victor Martin" target="Royal College of Surgeons" id="398" />
+      <edge source="H Clerk" target="Royal Society" id="399" />
+      <edge source="H J B Hancock" target="Royal Geographical Society" id="400" />
+      <edge source="H V Simpson" target="Royal College of Physicians" id="401" />
+      <edge source="H V Simpson" target="Royal College of Surgeons" id="402" />
+      <edge source="Henri Milne-Edwards" target="Royal Society" id="403" />
+      <edge source="Henry (the father) Jackson" target="Royal College of Surgeons" id="404" />
+      <edge source="Henry Ashworth" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="405" />
+      <edge source="Henry Barber" target="Royal College of Physicians" id="406" />
+      <edge source="Henry Bowden Lyle" target="Royal College of Surgeons" id="407" />
+      <edge source="Henry Burden" target="Royal College of Surgeons" id="408" />
+      <edge source="Henry Christy" target="Society of Antiquaries" id="409" />
+      <edge source="Henry Christy" target="Linnean Society of London" id="410" />
+      <edge source="Henry Clare" target="Royal Society of Literature" id="411" />
+      <edge source="Henry Clark" target="Society of Antiquaries" id="412" />
+      <edge source="Henry Cole" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="413" />
+      <edge source="Henry Danby Seymour" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="414" />
+      <edge source="Henry Duckworth" target="Royal Geographical Society" id="415" />
+      <edge source="Henry Edward Jessop" target="Royal College of Surgeons" id="416" />
+      <edge source="Henry George Bohn" target="Royal Geographical Society" id="417" />
+      <edge source="Henry George Bohn" target="Royal Society of Literature" id="418" />
+      <edge source="Henry George Bohn" target="Linnean Society of London" id="419" />
+      <edge source="Henry Hallam" target="Royal Society" id="420" />
+      <edge source="Henry Hoyle Howorth" target="Royal Society" id="421" />
+      <edge source="Henry Hoyle Howorth" target="Royal Geographical Society" id="422" />
+      <edge source="Henry Hoyle Howorth" target="Royal Asiatic Society" id="423" />
+      <edge source="Henry James Paine" target="Royal College of Surgeons" id="424" />
+      <edge source="Henry Johnson" target="Zoological Society" id="425" />
+      <edge source="Henry King Spark" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="426" />
+      <edge source="Henry Leighton" target="Zoological Society" id="427" />
+      <edge source="Henry Norsworthy" target="Zoological Society" id="428" />
+      <edge source="Henry Rawlinson" target="Royal Society" id="429" />
+      <edge source="Henry S Boase" target="Royal Society" id="430" />
+      <edge source="Henry Walter Bellew" target="Royal College of Surgeons" id="431" />
+      <edge source="Henry Whitfeld" target="Royal College of Surgeons" id="432" />
+      <edge source="Henry Whitfeld" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="433" />
+      <edge source="Henry Willan Jackson" target="Royal College of Surgeons" id="434" />
+      <edge source="Henry William (1) Jackson" target="Royal College of Surgeons" id="435" />
+      <edge source="Hermann Beigel" target="Royal College of Physicians" id="436" />
+      <edge source="Holmes Coote" target="Royal College of Surgeons" id="437" />
+      <edge source="Hugh J C Beavan" target="Royal Geographical Society" id="438" />
+      <edge source="Isaac Byerley" target="Royal College of Surgeons" id="439" />
+      <edge source="Isaac Byerley" target="Linnean Society of London" id="440" />
+      <edge source="J  Beete Jukes" target="Royal Society" id="441" />
+      <edge source="J  Daniel Moore" target="Linnean Society of London" id="442" />
+      <edge source="J  Eglinton Seaman" target="Royal Geographical Society" id="443" />
+      <edge source="J  Hughlings Jackson" target="Royal College of Physicians" id="444" />
+      <edge source="J  Hughlings Jackson" target="Medical and Chirurgical Society of London" id="445" />
+      <edge source="J  Marrion Sims" target="Medical and Chirurgical Society of London" id="446" />
+      <edge source="J  Passmore Edwards" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="447" />
+      <edge source="J  Pryce Jones" target="Royal Geographical Society" id="448" />
+      <edge source="J  Ranald Martin" target="Royal Society" id="449" />
+      <edge source="J  Ranald Martin" target="Royal College of Surgeons" id="450" />
+      <edge source="J  Spotswood Wilson" target="Royal Geographical Society" id="451" />
+      <edge source="J  T Thresh" target="Royal Geographical Society" id="452" />
+      <edge source="J A Symonds" target="Royal Society" id="453" />
+      <edge source="J A Symonds" target="Royal College of Physicians" id="454" />
+      <edge source="J C Murray" target="Royal College of Physicians" id="455" />
+      <edge source="J D V Packman" target="Linnean Society of London" id="456" />
+      <edge source="J Muir" target="Royal Asiatic Society" id="457" />
+      <edge source="J P Baker" target="Royal College of Surgeons" id="458" />
+      <edge source="J W  (2) Kaye" target="Royal Society of Literature" id="459" />
+      <edge source="J W Walton" target="Royal Geographical Society" id="460" />
+      <edge source="J W Walton" target="Zoological Society" id="461" />
+      <edge source="Jabez Spence Ramskill" target="Royal College of Physicians" id="462" />
+      <edge source="James Anderson Rose" target="Royal Society of Literature" id="463" />
+      <edge source="James Bainbridge Baxter" target="Royal College of Surgeons" id="464" />
+      <edge source="James Bainbridge Baxter" target="Society of Antiquaries" id="465" />
+      <edge source="James Bischoff" target="Zoological Society" id="466" />
+      <edge source="James Bonsor" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="467" />
+      <edge source="James Bonwick" target="Royal Geographical Society" id="468" />
+      <edge source="James Buckman" target="Linnean Society of London" id="469" />
+      <edge source="James C Proctor" target="Royal College of Surgeons" id="470" />
+      <edge source="James Campbell" target="Royal Geographical Society" id="471" />
+      <edge source="James Clark" target="Royal Society" id="472" />
+      <edge source="James Cotter Morison" target="Royal Society of Literature" id="473" />
+      <edge source="James Cowles Prichard" target="Royal Society" id="474" />
+      <edge source="James Henry Skene" target="Royal Asiatic Society" id="475" />
+      <edge source="James Heywood" target="Royal Society" id="476" />
+      <edge source="James Heywood" target="Society of Antiquaries" id="477" />
+      <edge source="James Holland" target="Royal Geographical Society" id="478" />
+      <edge source="James Hunt" target="Royal Society of Literature" id="479" />
+      <edge source="James Hunt" target="Society of Antiquaries" id="480" />
+      <edge source="James Kay Shuttleworth" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="481" />
+      <edge source="James Kernahan" target="Royal Society of Literature" id="482" />
+      <edge source="James McCraith" target="Royal College of Surgeons" id="483" />
+      <edge source="James Penn Harris" target="Royal College of Surgeons" id="484" />
+      <edge source="James Rae" target="Royal Geographical Society" id="485" />
+      <edge source="James Roberts Brown" target="Royal Geographical Society" id="486" />
+      <edge source="James Talbot de Malahide" target="Royal Society" id="487" />
+      <edge source="James Talbot de Malahide" target="Society of Antiquaries" id="488" />
+      <edge source="James Walker" target="Royal Society" id="489" />
+      <edge source="James Walker" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="490" />
+      <edge source="James Whishaw" target="Society of Antiquaries" id="491" />
+      <edge source="James William Fleming" target="Royal College of Surgeons" id="492" />
+      <edge source="James, jun Rock" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="493" />
+      <edge source="Jean-Francois Caplin" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="494" />
+      <edge source="Jesse Conway Davies" target="Royal College of Surgeons" id="495" />
+      <edge source="Jesse Conway Davies" target="Royal College of Physicians" id="496" />
+      <edge source="Johann Franz ('Julius') Haast" target="Royal Society" id="497" />
+      <edge source="John  Wheeldon Barnes" target="Society of Antiquaries" id="498" />
+      <edge source="John (1) Collinson" target="Royal Geographical Society" id="499" />
+      <edge source="John (2) Martin" target="Linnean Society of London" id="500" />
+      <edge source="John (2) Scott" target="Royal College of Physicians" id="501" />
+      <edge source="John Allen Brown" target="Royal Geographical Society" id="502" />
+      <edge source="John Anderson" target="Linnean Society of London" id="503" />
+      <edge source="John Atcherley" target="Royal College of Physicians" id="504" />
+      <edge source="John Bell (2)" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="505" />
+      <edge source="John Benn Ormathwaite" target="Royal Geographical Society" id="506" />
+      <edge source="John Bennett" target="Royal Asiatic Society" id="507" />
+      <edge source="John Beswick Perrin" target="Royal College of Surgeons" id="508" />
+      <edge source="John Beswick Perrin" target="Medical and Chirurgical Society of London" id="509" />
+      <edge source="John Bilderbeck" target="Royal College of Surgeons" id="510" />
+      <edge source="John Bowring" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="511" />
+      <edge source="John Cavafy" target="Royal College of Physicians" id="512" />
+      <edge source="John Cavafy" target="Medical and Chirurgical Society of London" id="513" />
+      <edge source="John Conolly" target="Royal Society" id="514" />
+      <edge source="John Crawfurd" target="Royal Society" id="515" />
+      <edge source="John Crawfurd" target="Royal Geographical Society" id="516" />
+      <edge source="John Drummond" target="Royal Geographical Society" id="517" />
+      <edge source="John E Smyth" target="Royal College of Physicians" id="518" />
+      <edge source="John E Smyth" target="Royal College of Surgeons" id="519" />
+      <edge source="John Edward Lee" target="Society of Antiquaries" id="520" />
+      <edge source="John Evans" target="Royal Society" id="521" />
+      <edge source="John Evans" target="Linnean Society of London" id="522" />
+      <edge source="John Frederick Collingwood" target="Royal Society of Literature" id="523" />
+      <edge source="John Frederick McNair" target="Linnean Society of London" id="524" />
+      <edge source="John Gardner Wilkinson" target="Royal Society" id="525" />
+      <edge source="John George Clunies Ross" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="526" />
+      <edge source="John George Davey" target="Royal Society" id="527" />
+      <edge source="John George Wood" target="Linnean Society of London" id="528" />
+      <edge source="John Grattan" target="Royal College of Surgeons" id="529" />
+      <edge source="John Grayling" target="Royal College of Surgeons" id="530" />
+      <edge source="John Grover" target="Royal Society" id="531" />
+      <edge source="John Henry Challis" target="Zoological Society" id="532" />
+      <edge source="John Henry Rivett-Carnac" target="Society of Antiquaries" id="533" />
+      <edge source="John Henry Rivett-Carnac" target="Royal Asiatic Society" id="534" />
+      <edge source="John Joseph Shillinglaw" target="Royal Geographical Society" id="535" />
+      <edge source="John Jun Dickinson" target="Royal Society" id="536" />
+      <edge source="John Jun Dickinson" target="Royal Geographical Society" id="537" />
+      <edge source="John King Watts" target="Royal Geographical Society" id="538" />
+      <edge source="John Langdon H Down" target="Royal College of Physicians" id="539" />
+      <edge source="John Langdon H Down" target="Medical and Chirurgical Society of London" id="540" />
+      <edge source="John Lee (2)" target="Royal Society" id="541" />
+      <edge source="John Lee (2)" target="Royal Asiatic Society" id="542" />
+      <edge source="John Lee (2)" target="Linnean Society of London" id="543" />
+      <edge source="John Lee (2)" target="Society of Antiquaries" id="544" />
+      <edge source="John Lee (2)" target="Royal Geographical Society" id="545" />
+      <edge source="John Lister" target="Zoological Society" id="546" />
+      <edge source="John Lubbock" target="Royal Society" id="547" />
+      <edge source="John Lubbock" target="Society of Antiquaries" id="548" />
+      <edge source="John Lubbock" target="Linnean Society of London" id="549" />
+      <edge source="John M  (or H ) Middleton" target="Royal College of Physicians" id="550" />
+      <edge source="John M  (or H ) Middleton" target="Royal College of Surgeons" id="551" />
+      <edge source="John Medd" target="Royal College of Surgeons" id="552" />
+      <edge source="John Nottingham" target="Royal College of Surgeons" id="553" />
+      <edge source="John Nottingham" target="Royal College of Physicians" id="554" />
+      <edge source="John Payne Collier" target="Society of Antiquaries" id="555" />
+      <edge source="John Peter Gassiot" target="Royal Society" id="556" />
+      <edge source="John Peter Gassiot" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="557" />
+      <edge source="John Ryan" target="Royal College of Surgeons" id="558" />
+      <edge source="John Scouler" target="Linnean Society of London" id="559" />
+      <edge source="John Shortt" target="Royal College of Physicians" id="560" />
+      <edge source="John Shortt" target="Royal College of Surgeons" id="561" />
+      <edge source="John Spencer Noldwritt" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="562" />
+      <edge source="John Stothert Bartrum" target="Royal College of Surgeons" id="563" />
+      <edge source="John Tennant" target="Royal Society" id="564" />
+      <edge source="John Thomson" target="Royal Geographical Society" id="565" />
+      <edge source="John Thrupp" target="Royal Geographical Society" id="566" />
+      <edge source="John Thurnam" target="Society of Antiquaries" id="567" />
+      <edge source="John Thurnam" target="Royal College of Surgeons" id="568" />
+      <edge source="John Thurnam" target="Royal College of Physicians" id="569" />
+      <edge source="John Tolhurst" target="Society of Antiquaries" id="570" />
+      <edge source="John Ussher" target="Royal Geographical Society" id="571" />
+      <edge source="John Wilkins Williams" target="Royal College of Surgeons" id="572" />
+      <edge source="John Zachariah Laurence" target="Royal College of Surgeons" id="573" />
+      <edge source="John jun Dickinson" target="Royal Society" id="574" />
+      <edge source="Jonathan Hutchinson" target="Royal College of Surgeons" id="575" />
+      <edge source="Jonathan Hutchinson" target="Medical and Chirurgical Society of London" id="576" />
+      <edge source="Jonathan Sparrow Crowley" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="577" />
+      <edge source="Jones Lamprey" target="Royal Geographical Society" id="578" />
+      <edge source="Joseph Bosworth" target="Royal Society" id="579" />
+      <edge source="Joseph Henry Barr" target="Royal College of Surgeons" id="580" />
+      <edge source="Joseph Hooker" target="Royal Society" id="581" />
+      <edge source="Joseph Ince" target="Linnean Society of London" id="582" />
+      <edge source="Joseph Lister" target="Royal Society" id="583" />
+      <edge source="Joseph Mayer" target="Society of Antiquaries" id="584" />
+      <edge source="Joseph Milligan" target="Zoological Society" id="585" />
+      <edge source="Joseph Milligan" target="Linnean Society of London" id="586" />
+      <edge source="Joseph Prestwich" target="Royal Society" id="587" />
+      <edge source="Joseph William Eastwood" target="Royal College of Surgeons" id="588" />
+      <edge source="Kenneth Robert Henderson Mackenzie" target="Society of Antiquaries" id="589" />
+      <edge source="Kenneth Robert Henderson Mackenzie" target="Royal Asiatic Society" id="590" />
+      <edge source="Lawson Tait" target="Royal College of Surgeons" id="591" />
+      <edge source="Lawson Tait" target="Medical and Chirurgical Society of London" id="592" />
+      <edge source="Leonard Jenyns LATER Blomefield" target="Linnean Society of London" id="593" />
+      <edge source="Lestock Robert Reid" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="594" />
+      <edge source="Lindsay Brine" target="Royal Geographical Society" id="595" />
+      <edge source="Linnean Society of London" target="P B Brodie" id="596" />
+      <edge source="Linnean Society of London" target="William Bull" id="597" />
+      <edge source="Linnean Society of London" target="Samuel Cartwright" id="598" />
+      <edge source="Linnean Society of London" target="William Eassie" id="599" />
+      <edge source="Linnean Society of London" target="William Ferguson" id="600" />
+      <edge source="Linnean Society of London" target="William Vernon Guise" id="601" />
+      <edge source="Linnean Society of London" target="W Hitchman" id="602" />
+      <edge source="Linnean Society of London" target="Thomas Henry Huxley" id="603" />
+      <edge source="Linnean Society of London" target="William Jardine" id="604" />
+      <edge source="Linnean Society of London" target="Thomas Lucas" id="605" />
+      <edge source="Linnean Society of London" target="William MacDonald" id="606" />
+      <edge source="Linnean Society of London" target="St George J Mivart" id="607" />
+      <edge source="Linnean Society of London" target="Roderick Impey Murchison" id="608" />
+      <edge source="Linnean Society of London" target="William Newmarch" id="609" />
+      <edge source="Linnean Society of London" target="Richard Owen" id="610" />
+      <edge source="Linnean Society of London" target="Robert Brisco Owen" id="611" />
+      <edge source="Linnean Society of London" target="Samuel R J Owen" id="612" />
+      <edge source="Linnean Society of London" target="Worthington George Smith" id="613" />
+      <edge source="Linnean Society of London" target="Thomas Walker" id="614" />
+      <edge source="Linnean Society of London" target="Thomas Williams" id="615" />
+      <edge source="Linnean Society of London" target="Robert Younge" id="616" />
+      <edge source="Lionel John Beale" target="Royal College of Surgeons" id="617" />
+      <edge source="Lionel John Beale" target="Royal Society of Literature" id="618" />
+      <edge source="Louis Philippe d'Orleans Paris" target="Royal Geographical Society" id="619" />
+      <edge source="Luke Smyth O'Connor" target="Royal Geographical Society" id="620" />
+      <edge source="Mark Anthony Lower" target="Society of Antiquaries" id="621" />
+      <edge source="Medical and Chirurgical Society of London" target="William (2) Adams" id="622" />
+      <edge source="Medical and Chirurgical Society of London" target="Thomas Callaway" id="623" />
+      <edge source="Medical and Chirurgical Society of London" target="Samuel Cartwright" id="624" />
+      <edge source="Medical and Chirurgical Society of London" target="Robert Dunn" id="625" />
+      <edge source="Medical and Chirurgical Society of London" target="Samuel Maclean" id="626" />
+      <edge source="Medical and Chirurgical Society of London" target="Walter Moxon" id="627" />
+      <edge source="Medical and Chirurgical Society of London" target="William Paley" id="628" />
+      <edge source="Medical and Chirurgical Society of London" target="Thomas Bevill Peacock" id="629" />
+      <edge source="Medical and Chirurgical Society of London" target="W Sharp" id="630" />
+      <edge source="Medical and Chirurgical Society of London" target="Samuel Solly" id="631" />
+      <edge source="Medical and Chirurgical Society of London" target="Thomas Alexander Wise" id="632" />
+      <edge source="Modeliar P S Mootoosaumy" target="Royal College of Surgeons" id="633" />
+      <edge source="Norton Shaw" target="Royal Geographical Society" id="634" />
+      <edge source="P H Chittenden" target="Royal College of Surgeons" id="635" />
+      <edge source="P O'Callaghan" target="Society of Antiquaries" id="636" />
+      <edge source="Paul Belloni Du Chaillu" target="Royal Geographical Society" id="637" />
+      <edge source="Peter Dickson" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="638" />
+      <edge source="Peter Dickson" target="Royal Geographical Society" id="639" />
+      <edge source="Peter Martin Duncan" target="Royal Society" id="640" />
+      <edge source="Peter Sharp" target="Royal Geographical Society" id="641" />
+      <edge source="Philip Southby" target="Zoological Society" id="642" />
+      <edge source="Protheroe Smith" target="Royal College of Physicians" id="643" />
+      <edge source="R E Dudgeon" target="Zoological Society" id="644" />
+      <edge source="R H W Dunlop" target="Royal Geographical Society" id="645" />
+      <edge source="R W Haynes" target="Royal Society of Literature" id="646" />
+      <edge source="Rajendralala Mitra" target="Royal Asiatic Society" id="647" />
+      <edge source="Ramon de Silva-Ferro" target="Royal Geographical Society" id="648" />
+      <edge source="Reginald R Dudley" target="Royal College of Surgeons" id="649" />
+      <edge source="Richard Archer Warwick" target="Royal College of Physicians" id="650" />
+      <edge source="Richard Beaumont" target="Royal Society" id="651" />
+      <edge source="Richard Biddulph Martin" target="Royal Geographical Society" id="652" />
+      <edge source="Richard Cull" target="Society of Antiquaries" id="653" />
+      <edge source="Richard Edward Arden" target="Royal Geographical Society" id="654" />
+      <edge source="Richard Haughton" target="Royal Asiatic Society" id="655" />
+      <edge source="Richard Hughes" target="Royal College of Physicians" id="656" />
+      <edge source="Richard Hughes" target="Royal College of Surgeons" id="657" />
+      <edge source="Richard Lee" target="Royal College of Surgeons" id="658" />
+      <edge source="Richard Maddock Nunn" target="Royal College of Surgeons" id="659" />
+      <edge source="Richard Owen" target="Royal College of Surgeons" id="660" />
+      <edge source="Richard Owen" target="Royal Society" id="661" />
+      <edge source="Richard Owen" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="662" />
+      <edge source="Richard Thomas Gore" target="Royal College of Surgeons" id="663" />
+      <edge source="Robert Carrington" target="Royal Geographical Society" id="664" />
+      <edge source="Robert Dukinfield Darbishire" target="Society of Antiquaries" id="665" />
+      <edge source="Robert Dunn" target="Royal College of Surgeons" id="666" />
+      <edge source="Robert Fitzroy" target="Royal Society" id="667" />
+      <edge source="Robert G Moger" target="Royal College of Surgeons" id="668" />
+      <edge source="Robert Gordon Latham" target="Royal Society" id="669" />
+      <edge source="Robert Gordon Latham" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="670" />
+      <edge source="Robert Ingham" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="671" />
+      <edge source="Robert James Mann" target="Royal College of Surgeons" id="672" />
+      <edge source="Robert M Inman" target="Royal Geographical Society" id="673" />
+      <edge source="Robert Menzies" target="Royal College of Surgeons" id="674" />
+      <edge source="Robert Nicholas Fowler" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="675" />
+      <edge source="Robert Nicholas Fowler" target="Society of Antiquaries" id="676" />
+      <edge source="Robert Peel" target="Royal College of Surgeons" id="677" />
+      <edge source="Robert Stirling (1) Newall" target="Royal Society" id="678" />
+      <edge source="Robert Tait" target="Zoological Society" id="679" />
+      <edge source="Robert Tait" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="680" />
+      <edge source="Robinson Hudson" target="Royal College of Surgeons" id="681" />
+      <edge source="Roderick Impey Murchison" target="Royal Society" id="682" />
+      <edge source="Roderick Impey Murchison" target="Royal Geographical Society" id="683" />
+      <edge source="Royal Asiatic Society" target="William Arthur" id="684" />
+      <edge source="Royal Asiatic Society" target="Samuel Beal" id="685" />
+      <edge source="Royal Asiatic Society" target="Thomas Edward Colebrooke" id="686" />
+      <edge source="Royal Asiatic Society" target="x Derby (formerly Stanley)" id="687" />
+      <edge source="Royal Asiatic Society" target="W J S Horton" id="688" />
+      <edge source="Royal Asiatic Society" target="William Monk" id="689" />
+      <edge source="Royal Asiatic Society" target="T Postans" id="690" />
+      <edge source="Royal Asiatic Society" target="x Strangford" id="691" />
+      <edge source="Royal College of Physicians" target="William Beattie" id="692" />
+      <edge source="Royal College of Physicians" target="Thomas Godrich" id="693" />
+      <edge source="Royal College of Physicians" target="Thomas Humble" id="694" />
+      <edge source="Royal College of Physicians" target="William Paley" id="695" />
+      <edge source="Royal College of Physicians" target="Thomas Bevill Peacock" id="696" />
+      <edge source="Royal College of Physicians" target="Thomas Prichard" id="697" />
+      <edge source="Royal College of Physicians" target="William Francis Ramsay" id="698" />
+      <edge source="Royal College of Physicians" target="William Henry Sherwood" id="699" />
+      <edge source="Royal College of Physicians" target="Thomas Smith" id="700" />
+      <edge source="Royal College of Physicians" target="William Travers" id="701" />
+      <edge source="Royal College of Physicians" target="S W D Williams" id="702" />
+      <edge source="Royal College of Physicians" target="W  Holt Yates" id="703" />
+      <edge source="Royal College of Surgeons" target="William (2) Adams" id="704" />
+      <edge source="Royal College of Surgeons" target="William Baird Airston" id="705" />
+      <edge source="Royal College of Surgeons" target="William Battye" id="706" />
+      <edge source="Royal College of Surgeons" target="Thomas Callaway" id="707" />
+      <edge source="Royal College of Surgeons" target="William Nathan Chipperfield" id="708" />
+      <edge source="Royal College of Surgeons" target="William Henry Claus" id="709" />
+      <edge source="Royal College of Surgeons" target="William C Copperthwaite" id="710" />
+      <edge source="Royal College of Surgeons" target="Thomas William Craster" id="711" />
+      <edge source="Royal College of Surgeons" target="William Davies" id="712" />
+      <edge source="Royal College of Surgeons" target="Ryves William Graves" id="713" />
+      <edge source="Royal College of Surgeons" target="William Harding" id="714" />
+      <edge source="Royal College of Surgeons" target="W Hitchman" id="715" />
+      <edge source="Royal College of Surgeons" target="William Jepson" id="716" />
+      <edge source="Royal College of Surgeons" target="W B Kesteven" id="717" />
+      <edge source="Royal College of Surgeons" target="Vavasour Joseph Lane" id="718" />
+      <edge source="Royal College of Surgeons" target="William Lawrence" id="719" />
+      <edge source="Royal College of Surgeons" target="William Lockhart" id="720" />
+      <edge source="Royal College of Surgeons" target="Thomas Lucas" id="721" />
+      <edge source="Royal College of Surgeons" target="W R Milner" id="722" />
+      <edge source="Royal College of Surgeons" target="William Henry Morgan" id="723" />
+      <edge source="Royal College of Surgeons" target="William Donald Napier" id="724" />
+      <edge source="Royal College of Surgeons" target="Samuel William North" id="725" />
+      <edge source="Royal College of Surgeons" target="Theodore D'Orville Partridge" id="726" />
+      <edge source="Royal College of Surgeons" target="Sampson Roch" id="727" />
+      <edge source="Royal College of Surgeons" target="S F Simonson" id="728" />
+      <edge source="Royal College of Surgeons" target="Samuel Solly" id="729" />
+      <edge source="Royal College of Surgeons" target="William Story" id="730" />
+      <edge source="Royal College of Surgeons" target="Thomas (2) Tate" id="731" />
+      <edge source="Royal College of Surgeons" target="William Travers" id="732" />
+      <edge source="Royal College of Surgeons" target="Thomas Harrington Tuke" id="733" />
+      <edge source="Royal Geographical Society" target="William Francis Harrison Ainsworth" id="734" />
+      <edge source="Royal Geographical Society" target="William Babington" id="735" />
+      <edge source="Royal Geographical Society" target="Samuel C Baker" id="736" />
+      <edge source="Royal Geographical Society" target="William Bollaert" id="737" />
+      <edge source="Royal Geographical Society" target="Sydney Edward Bouverie Bouverie-Pusey" id="738" />
+      <edge source="Royal Geographical Society" target="William Binnington Boyce" id="739" />
+      <edge source="Royal Geographical Society" target="William Bragge" id="740" />
+      <edge source="Royal Geographical Society" target="William Barrington D'Almeida" id="741" />
+      <edge source="Royal Geographical Society" target="William Freeman Daniell" id="742" />
+      <edge source="Royal Geographical Society" target="x Derby (formerly Stanley)" id="743" />
+      <edge source="Royal Geographical Society" target="William Eassie" id="744" />
+      <edge source="Royal Geographical Society" target="William Hardman" id="745" />
+      <edge source="Royal Geographical Society" target="W G E Hobbs" id="746" />
+      <edge source="Royal Geographical Society" target="Thomas (1) Hodgkin" id="747" />
+      <edge source="Royal Geographical Society" target="T H Hood" id="748" />
+      <edge source="Royal Geographical Society" target="x Houghton" id="749" />
+      <edge source="Royal Geographical Society" target="William Jennings" id="750" />
+      <edge source="Royal Geographical Society" target="S W King" id="751" />
+      <edge source="Royal Geographical Society" target="Thomas Lampray" id="752" />
+      <edge source="Royal Geographical Society" target="W  Hanks Levy" id="753" />
+      <edge source="Royal Geographical Society" target="William Lockhart" id="754" />
+      <edge source="Royal Geographical Society" target="William Longman" id="755" />
+      <edge source="Royal Geographical Society" target="William Elphinstone Malcolm" id="756" />
+      <edge source="Royal Geographical Society" target="Walter McLeod" id="757" />
+      <edge source="Royal Geographical Society" target="x Milton" id="758" />
+      <edge source="Royal Geographical Society" target="William Napier" id="759" />
+      <edge source="Royal Geographical Society" target="Samuel Pasfield Oliver" id="760" />
+      <edge source="Royal Geographical Society" target="William Perkins" id="761" />
+      <edge source="Royal Geographical Society" target="T Postans" id="762" />
+      <edge source="Royal Geographical Society" target="William T Pritchard" id="763" />
+      <edge source="Royal Geographical Society" target="William Winwood Reade" id="764" />
+      <edge source="Royal Geographical Society" target="Thomas Valentine Robins" id="765" />
+      <edge source="Royal Geographical Society" target="William Severin Salting" id="766" />
+      <edge source="Royal Geographical Society" target="W J Sharpe" id="767" />
+      <edge source="Royal Geographical Society" target="Spencer St John" id="768" />
+      <edge source="Royal Geographical Society" target="Samuel Timmins" id="769" />
+      <edge source="Royal Society" target="William Armstrong" id="770" />
+      <edge source="Royal Society" target="Samuel C Baker" id="771" />
+      <edge source="Royal Society" target="x Beechey" id="772" />
+      <edge source="Royal Society" target="T A Blakely" id="773" />
+      <edge source="Royal Society" target="T  George Bonney" id="774" />
+      <edge source="Royal Society" target="x Brougham" id="775" />
+      <edge source="Royal Society" target="x Brown-Sequard" id="776" />
+      <edge source="Royal Society" target="Samuel Cartwright" id="777" />
+      <edge source="Royal Society" target="x Clarendon" id="778" />
+      <edge source="Royal Society" target="William Clift" id="779" />
+      <edge source="Royal Society" target="Thomas Edward Colebrooke" id="780" />
+      <edge source="Royal Society" target="William Boyd Dawkins" id="781" />
+      <edge source="Royal Society" target="x Derby (formerly Stanley)" id="782" />
+      <edge source="Royal Society" target="x Dunraven &amp; Mountearl" id="783" />
+      <edge source="Royal Society" target="William Fairbairn" id="784" />
+      <edge source="Royal Society" target="William Greenwell" id="785" />
+      <edge source="Royal Society" target="Thomas Harlin" id="786" />
+      <edge source="Royal Society" target="x Houghton" id="787" />
+      <edge source="Royal Society" target="Thomas Henry Huxley" id="788" />
+      <edge source="Royal Society" target="William Jardine" id="789" />
+      <edge source="Royal Society" target="William Lawrence" id="790" />
+      <edge source="Royal Society" target="x Londesborough" id="791" />
+      <edge source="Royal Society" target="Thomas Lucas" id="792" />
+      <edge source="Royal Society" target="St George J Mivart" id="793" />
+      <edge source="Royal Society" target="Thomas Ryan Pinchis" id="794" />
+      <edge source="Royal Society" target="x Ripon, De Grey and" id="795" />
+      <edge source="Royal Society" target="W Sharp" id="796" />
+      <edge source="Royal Society" target="Samuel Solly" id="797" />
+      <edge source="Royal Society" target="Samuel Reynolds Solly" id="798" />
+      <edge source="Royal Society" target="William Spence" id="799" />
+      <edge source="Royal Society" target="William Spottiswoode" id="800" />
+      <edge source="Royal Society" target="William Tooke" id="801" />
+      <edge source="Royal Society" target="William Sandys Wright Vaux" id="802" />
+      <edge source="Royal Society" target="Thomas Williams" id="803" />
+      <edge source="Royal Society of Literature" target="William Amhurst Tyssen Amhurst" id="804" />
+      <edge source="Royal Society of Literature" target="Thomas William Bowman" id="805" />
+      <edge source="Royal Society of Literature" target="Thomas Edmonston" id="806" />
+      <edge source="Royal Society of Literature" target="William Longman" id="807" />
+      <edge source="Royal Society of Literature" target="Samuel Timmins" id="808" />
+      <edge source="Royal Society of Literature" target="William Tooke" id="809" />
+      <edge source="Royal Society of Literature" target="William Sandys Wright Vaux" id="810" />
+      <edge source="S  Edwin Collingwood" target="Zoological Society" id="811" />
+      <edge source="S W King" target="Society of Antiquaries" id="812" />
+      <edge source="Samuel Cartwright" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="813" />
+      <edge source="Samuel Courtauld" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="814" />
+      <edge source="Samuel Joseph Mackie" target="Society of Antiquaries" id="815" />
+      <edge source="Samuel Pasfield Oliver" target="Society of Antiquaries" id="816" />
+      <edge source="Samuel Reynolds Solly" target="Society of Antiquaries" id="817" />
+      <edge source="Samuel Reynolds Solly" target="Society for the Encouragement of Arts, Manufactures and Commerce" id="818" />
+      <edge source="Samuel Sharp" target="Society of Antiquaries" id="819" />
+      <edge source="Samuel Wood" target="Society of Antiquaries" id="820" />
+      <edge source="Silas Palmer" target="Society of Antiquaries" id="821" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="x Best" id="822" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Dinsdale Child" id="823" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Dingle Chowne" id="824" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Fothergill Cooke" id="825" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Cory" id="826" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="x Derby (formerly Stanley)" id="827" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Duckworth" id="828" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Fairbairn" id="829" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="Wentworth Lascelles Scott" id="830" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Spottiswoode" id="831" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Tooke" id="832" />
+      <edge source="Society for the Encouragement of Arts, Manufactures and Commerce" target="William Newton Wilson" id="833" />
+      <edge source="Society of Antiquaries" target="William Francis Harrison Ainsworth" id="834" />
+      <edge source="Society of Antiquaries" target="William Amhurst Tyssen Amhurst" id="835" />
+      <edge source="Society of Antiquaries" target="William Edward Bartlett" id="836" />
+      <edge source="Society of Antiquaries" target="William Bragge" id="837" />
+      <edge source="Society of Antiquaries" target="Thomas Francis Dillon Croker" id="838" />
+      <edge source="Society of Antiquaries" target="William Greenwell" id="839" />
+      <edge source="Society of Antiquaries" target="Walter Hawkins" id="840" />
+      <edge source="Society of Antiquaries" target="Thomas McKenny Hughes" id="841" />
+      <edge source="Society of Antiquaries" target="William Collings Lukis" id="842" />
+      <edge source="Society of Antiquaries" target="William Monk" id="843" />
+      <edge source="Society of Antiquaries" target="W Pinkerton" id="844" />
+      <edge source="Society of Antiquaries" target="x Rosehill" id="845" />
+      <edge source="Society of Antiquaries" target="William Devonshire Saull" id="846" />
+      <edge source="Society of Antiquaries" target="Worthington George Smith" id="847" />
+      <edge source="Society of Antiquaries" target="William Sandys Wright Vaux" id="848" />
+      <edge source="Society of Antiquaries" target="Thomas Wright" id="849" />
+      <edge source="St George J Mivart" target="Zoological Society" id="850" />
+      <edge source="Thomas Alexander Wise" target="Zoological Society" id="851" />
+      <edge source="Thomas Lucas" target="Zoological Society" id="852" />
+      <edge source="Thomas Squire Barrett" target="Zoological Society" id="853" />
+      <edge source="William Hardman" target="Zoological Society" id="854" />
+      <edge source="William Ogilby" target="Zoological Society" id="855" />
+      <edge source="William Severin Salting" target="Zoological Society" id="856" />
+      <edge source="Zoological Society" target="x Houghton" id="857" />
+    </edges>
+  </graph>
+</gexf>
